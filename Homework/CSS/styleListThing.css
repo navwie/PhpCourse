@@ -1,0 +1,102 @@
+header{
+   background-color: #f5ece6;
+   font-size: 22px;
+   font-weight: 400;
+   font-family: 'Palanquin Dark', sans-serif;
+}
+html ,body{
+   height: 100vh;
+   margin: 0;
+   background-attachment: fixed;
+   background-color: #fff;
+}
+footer{
+   background-color: #f5ece6;
+}
+
+.intro .navbar-brand{
+   font-family: 'Palanquin Dark', sans-serif;
+   font-size: 38px;
+   font-weight: 700;
+   margin-left:20px;
+   color: #593316 ;
+}
+
+
+.d-flex a:hover{
+   color:#747474;
+   text-decoration: underline;
+}
+
+.d-flex a{
+
+   font-family: 'Montserrat', sans-serif;
+   font-size: 25px;
+   font-weight: 400;
+   margin-right:47px;
+   color: #593316;
+}
+.drop-menu{
+   margin: 40px 0px 50px 400px;
+}
+.btn{
+   width: 120px;
+   font-size: 25px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.list-of-products{
+   display: flex;
+   margin-left: 200px;
+}
+.list-items{
+   margin-left: 53px;
+   margin-bottom: 30px;
+}
+.products-info img{
+   width: 250px;
+   margin-bottom: 10px;
+}
+.img-description{
+   position: relative;
+   font-size: 18px;
+   color: #000;
+   font-family: 'Montserrat', sans-serif;
+}
+.products-info img:hover{
+   transform: scale(1.2);
+}
+.img-description:hover{
+   text-decoration: underline;
+}
+
+.products-info{
+   background-color: #f5ece6;
+   width: 300px;
+   height: 400px;
+   border-radius: 20px;
+}
+.products-info img{
+   margin-left: 30px;
+   margin-top: 10px;
+   border-radius: 10px;
+}
+.products-info .btn{
+   margin-left: 90px;
+   font-family: 'Montserrat', sans-serif;
+}
+.hr{
+   width: 1200px;
+   margin-left: 140px;
+   margin-bottom: 50px;
+}
+.more-products button{
+   margin-left: 630px;
+   width: 250px;
+   font-size: 22px;
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: 70px;
+}
+footer li a{
+   color:#000;
+}
