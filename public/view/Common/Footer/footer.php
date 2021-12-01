@@ -1,4 +1,4 @@
-
+<footer class="page-footer font-small indigo">
     <div class="container-fluid text-center text-md-left">
         <div class="row">
             <div class="col-md-6 mt-md-0 mt-3">
@@ -19,4 +19,8 @@
     <div class="footer-copyright text-center py-3">© 2020 Copyright:
         <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
     </div>
+</footer>
+</body>
+</html>
+
 
