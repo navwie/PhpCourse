@@ -1,4 +1,7 @@
 <?php
+
+use Framework\core\Session;
+
 require_once('../public/models/listProducts/list-of-profucts.php');
 require_once('../public/models/storage/storage.php')
 ?>
@@ -16,7 +19,7 @@ require_once('../public/models/storage/storage.php')
                                 <img src="<?php echo  $key['img'];?>" alt="">
                                 <p class="img-description text-center"><?php echo  $key['name'];?></p>
                                 <p class="img-description text-center">Ціна: <?php echo  $key['price'];?></p>
-                                <a href="#" class="btn btn-primary">Купити</a>
+                                <a href="/buy" class="btn btn-primary">Купити</a>
                             </div>
                         </div>
                     </div>

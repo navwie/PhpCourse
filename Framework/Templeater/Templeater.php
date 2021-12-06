@@ -1,5 +1,7 @@
 <?php
 
+namespace Framework\Templeater;
+
 class Templeater
 {
     public function render($title, $view, $params = [])
