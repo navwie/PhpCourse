@@ -1,0 +1,298 @@
+[2021-12-08 21:07:56] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type http\Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:08:07] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type http\Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:08:08] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type http\Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:08:09] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type http\Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:08:36] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:10:23] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:12:23] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:13:11] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type ErrorHandler, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:13:12] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type ErrorHandler, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:13:27] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Framework\core\ErrorHandler, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:13:28] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Framework\core\ErrorHandler, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:17:48] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:17:49] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:17:50] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:18:28] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:18:29] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:18:53] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:19:27] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($e) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:20:56] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($ex) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:20:57] Текст ошибки: Uncaught TypeError: Framework\core\ErrorHandler::exceptionHandler(): Argument #1 ($ex) must be of type Exception, Error given in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:74
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 74 
+ ======================================
+[2021-12-08 21:21:51] Текст ошибки: Uncaught Error: Call to undefined function Framework\core\getCode() in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:76
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 76 
+ ======================================
+[2021-12-08 21:21:52] Текст ошибки: Uncaught Error: Call to undefined function Framework\core\getCode() in /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php:76
+Stack trace:
+#0 [internal function]: Framework\core\ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown | Файл: /home/lesia/Документы/dir1/mysite/Framework/core/ErrorHandler.php 
+        | Строка: 76 
+ ======================================
+[2021-12-08 21:31:19] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:31:52] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:31:54] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:32:13] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:33:09] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:33:40] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:33:47] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:33:49] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:41:19] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:41:31] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:53:38] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 21:57:32] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:03:27] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:05:28] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:05:29] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:05:29] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:05:30] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:05:31] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:07:22] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:21] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:22] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:22] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:23] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:23] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:23] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:08:23] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 6 
+ ======================================
+[2021-12-08 22:15:48] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:16:49] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:17:29] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:19:37] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:19:38] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:19:55] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:20:41] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:20:42] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:20:42] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:20:42] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:20:42] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:09] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:40] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:41] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:41] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:43] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:44] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:45] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:46] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:46] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:21:46] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
+[2021-12-08 22:23:09] Текст ошибки: Undefined constant "уцуцу" | Файл: /home/lesia/Документы/dir1/mysite/public/view/Layouts/mainLayout.php 
+        | Строка: 7 
+ ======================================
