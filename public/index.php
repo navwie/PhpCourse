@@ -1,15 +1,19 @@
 <?php
-    error_reporting(E_ALL);
-    ini_set('display_errors', 1);
 
-    require_once('autoloader.php');
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 
-    use Framework\Router;
-    use Framework\core\Session;
+require_once '../vendor/autoload.php';
 
-    $session = new Session();
-    $session->start();
+use Framework\core\ErrorHandler;
+use Framework\Router;
+use Framework\core\Session;
 
-    $router = new Router();
-    $router->matchRoute();
+$exception = new ErrorHandler();
+$exception->register();
 
+$session = new Session();
+$session->start();
+
+$router = new Router();
+$router->matchRoute();

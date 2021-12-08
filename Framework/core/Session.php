@@ -16,16 +16,20 @@ class Session
 
     public function start()
     {
-        if(!self::isSessionExist())
-        {
+        if (!self::isSessionExist()) {
             return session_start();
         }
         return false;
     }
 
+    public function isSessionExist()
+    {
+        return !empty($_SESSION);
+    }
+
     public function destroy()
     {
-        if(self::isSessionExist()){
+        if (self::isSessionExist()) {
             return session_destroy();
         }
         return false;
@@ -33,61 +37,17 @@ class Session
 
     public function set($key, $value)
     {
-        if(self::isSessionExist())
-        {
+        if (self::isSessionExist()) {
             $_SESSION[$key] = $value;
         }
     }
 
     public function get($key)
     {
-        if(self::isSessionExist() && self::isKeyExist($key))
-        {
+        if (self::isSessionExist() && self::isKeyExist($key)) {
             return $_SESSION[$key];
         }
         return false;
-    }
-
-    public function deleteKey($key)
-    {
-        if(self::isKeyExist($key) && self::isSessionExist())
-        {
-            unset($_SESSION[$key]);
-        }
-    }
-
-    public function setName($name)
-    {
-        if(self::isSessionExist())
-        {
-            session_name($name);
-        }
-    }
-
-    public function getName()
-    {
-        if(self::isSessionExist())
-        {
-           return session_name();
-        }
-        return null;
-    }
-
-    public function setId($id)
-    {
-        if(self::isSessionExist())
-        {
-            session_id($id);
-        }
-    }
-
-    public function getId()
-    {
-        if(self::isSessionExist())
-        {
-            return session_id();
-        }
-        return null;
     }
 
     public function isKeyExist($key)
@@ -95,8 +55,40 @@ class Session
         return isset($_SESSION[$key]);
     }
 
-    public function isSessionExist()
+    public function deleteKey($key)
     {
-        return !empty($_SESSION);
+        if (self::isKeyExist($key) && self::isSessionExist()) {
+            unset($_SESSION[$key]);
+        }
+    }
+
+    public function setName($name)
+    {
+        if (self::isSessionExist()) {
+            session_name($name);
+        }
+    }
+
+    public function getName()
+    {
+        if (self::isSessionExist()) {
+            return session_name();
+        }
+        return null;
+    }
+
+    public function setId($id)
+    {
+        if (self::isSessionExist()) {
+            session_id($id);
+        }
+    }
+
+    public function getId()
+    {
+        if (self::isSessionExist()) {
+            return session_id();
+        }
+        return null;
     }
 }
