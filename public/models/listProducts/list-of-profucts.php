@@ -1,4 +1,5 @@
 <?php
+
 $products = array(
     [
         'product_id' => '1',
