@@ -7,7 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
-    'JsonException' => $vendorDir . '/symfony/polyfill-php73/Resources/stubs/JsonException.php',
+    'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Normalizer' => $vendorDir . '/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php',
     'PhpCsFixer\\Diff\\Chunk' => $vendorDir . '/php-cs-fixer/diff/src/Chunk.php',
     'PhpCsFixer\\Diff\\ConfigurationException' => $vendorDir . '/php-cs-fixer/diff/src/Exception/ConfigurationException.php',
