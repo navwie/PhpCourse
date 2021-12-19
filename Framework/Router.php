@@ -4,18 +4,18 @@ namespace Framework;
 
 class Router
 {
-    private static array $routes;   # array of routes
-    private static array $route = [];  # current route
+    private array $routes;   # array of routes
+    private array $route = [];  # current route
 
     public function __construct()
     {
         $routes = require_once("../Framework/Config/routes.php");
-        self::$routes = $routes;
+        $this->routes = $routes;
     }
 
     public function routeCheck($url)
     {
-        foreach (self::$routes as $pattern => $route) {
+        foreach ($this->routes as $pattern => $route) {
             if (preg_match("#$pattern#", $url, $result)) {
                 foreach ($result as $key => $value) {
                     if (is_string($key)) {
@@ -25,7 +25,7 @@ class Router
                 if (empty($route['action'])) {
                     $route['action'] = 'index';
                 }
-                self::$route = $route;
+                $this->route = $route;
                 return true;
             }
         }
@@ -36,15 +36,14 @@ class Router
     {
         $url = trim($_SERVER['REQUEST_URI'], '/');
         if ($this->routeCheck($this->removeQueryString($url))) {
-            $controller = ucfirst(self::$route['controller']) . "Controller";
-            $act = self::$route['action'];
+            $controller = ucfirst($this->route['controller']) . "Controller";
+            $act = $this->route['action'];
             $str = "App\\Controller\\$controller";
             if (class_exists($str)) {
                 $object = new $str($url);
                 $object->$act();
             }
         }
-        return $url;
     }
 
     public function removeQueryString($uri)

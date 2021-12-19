@@ -2,16 +2,15 @@
 
 namespace App\Controller;
 
+use Framework\Core\BaseController\BaseController;
 use Framework\Templeater\Templeater;
 use Framework\core\Session;
 
-class MainController
+class MainController extends BaseController
 {
-    private $templeater;
-
     public function __construct()
     {
-        $this->templeater = new Templeater();
+        parent::__construct();
     }
 
     public function main()
@@ -31,9 +30,8 @@ class MainController
     {
         $email = $_POST['email'];
         $password = $_POST['password'];
-        $e = 'navwie@gmail.com';
-        $p = '12345678';
-        if($email == $e && $password == $p)
+
+        if($this->authentication->authentication($email, $password))
         {
             $_SESSION['username'] = $email;
             header('Location: /profile');
