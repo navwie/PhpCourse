@@ -1,6 +1,6 @@
 <?php
 
-namespace Framework\core;
+namespace Framework\Session;
 
 class Session
 {
@@ -44,10 +44,10 @@ class Session
 
     public function get($key)
     {
-        if (self::isSessionExist() && self::isKeyExist($key)) {
+        if ($this->isSessionExist() && $this->isKeyExist($key)) {
             return $_SESSION[$key];
         }
-        return false;
+        return null;
     }
 
     public function isKeyExist($key)

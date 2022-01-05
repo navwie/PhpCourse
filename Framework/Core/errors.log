@@ -320,3 +320,1467 @@ Stack trace:
 [2021-12-14 23:53:35] Текст ошибки: Failed opening required 'View/Common/Header/header.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/App/View/Layouts/mainLayout.php 
         | Строка: 2 
  ======================================
+[2021-12-21 12:20:50] Текст ошибки: Контроллер или экшн не найден  | Файл: /home/lesia/Документы/dir1/mysite/Framework/Router/Router.php 
+        | Строка: 48 
+ ======================================
+[2021-12-21 13:44:54] Текст ошибки: Class "Framework\Core\Session" not found | Файл: /home/lesia/Документы/dir1/mysite/public/index.php 
+        | Строка: 17 
+ ======================================
+[2021-12-21 13:44:55] Текст ошибки: Class "Framework\Core\Session" not found | Файл: /home/lesia/Документы/dir1/mysite/public/index.php 
+        | Строка: 17 
+ ======================================
+[2021-12-21 13:46:30] Текст ошибки: Undefined array key "login" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 22 
+ ======================================
+[2021-12-21 13:46:30] Текст ошибки: Undefined property: Framework\Core\Authentication\Authentication::$userService | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:46:30] Текст ошибки: Call to a member function getByField() on null | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Undefined array key "login" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 22 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Undefined property: Framework\Core\Authentication\Authentication::$userService | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Call to a member function getByField() on null | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Undefined array key "login" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 22 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Undefined property: Framework\Core\Authentication\Authentication::$userService | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:47:04] Текст ошибки: Call to a member function getByField() on null | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:48:08] Текст ошибки: Undefined property: Framework\Core\Authentication\Authentication::$userService | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:48:08] Текст ошибки: Call to a member function getByField() on null | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 24 
+ ======================================
+[2021-12-21 13:50:34] Текст ошибки: syntax error, unexpected token "class", expecting "," or ";" | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 9 
+ ======================================
+[2021-12-21 13:51:44] Текст ошибки: Call to a member function getByField() on null | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 27 
+ ======================================
+[2021-12-21 13:54:30] Текст ошибки: Typed property Framework\Core\Authentication\Authentication::$userService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 31 
+ ======================================
+[2021-12-21 13:56:38] Текст ошибки: Typed property App\Service\UserService::$userMapper must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 15 
+ ======================================
+[2021-12-21 13:59:12] Текст ошибки: Typed property App\Service\UserService::$userModel must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 19 
+ ======================================
+[2021-12-21 14:00:03] Текст ошибки: Undefined property: App\Model\UserModel::$dbConnect | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php
+        | Строка: 28 
+ ======================================
+[2021-12-21 14:00:03] Текст ошибки: Call to a member function prepare() on null | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 28 
+ ======================================
+[2021-12-21 14:06:51] Текст ошибки: Class "App\Model\Model" not found | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 8 
+ ======================================
+[2021-12-21 14:08:48] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 14:10:38] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 16:55:07] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:01:44] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:01:54] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:02:12] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:02:12] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:02:12] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-21 17:34:04] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php 
+        | Строка: 21 
+ ======================================
+[2021-12-21 17:36:45] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 35 
+ ======================================
+[2021-12-22 10:51:28] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:52:26] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:26] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:26] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:52:27] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:27] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:27] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:52:51] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:51] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:51] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:52:52] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:52] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:52] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:52:53] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:53] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:52:53] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:53:00] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:53:00] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:53:00] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:53:01] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:53:01] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:53:01] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:54:39] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:54:39] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:54:39] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 10:58:31] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-22 10:58:48] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:58:48] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 10:58:48] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 11:04:08] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:08] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:08] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 11:04:09] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:09] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:09] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:04:10] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-22 11:06:18] Текст ошибки: Undefined array key "email" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:06:18] Текст ошибки: Undefined array key "password" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-22 11:17:55] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 39 
+ ======================================
+[2021-12-22 11:21:03] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 11:39:24] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-22 11:39:43] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 19:06:32] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-22 19:06:46] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 19:28:14] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 25 
+ ======================================
+[2021-12-22 20:03:58] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 20:41:18] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 21:54:46] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 23:07:15] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 23:07:47] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 23:09:08] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 40 
+ ======================================
+[2021-12-22 23:13:30] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-22 23:13:56] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-22 23:15:18] Текст ошибки: Call to a member function fetchAll() on bool | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 31 
+ ======================================
+[2021-12-22 23:20:12] Текст ошибки: session_start(): Session cannot be started after headers have already been sent | Файл: /home/lesia/Документы/dir1/mysite/Framework/Session/Session.php
+        | Строка: 20 
+ ======================================
+[2021-12-22 23:20:12] Текст ошибки: Cannot modify header information - headers already sent by (output started at /home/lesia/Документы/dir1/mysite/public/index.php:7) | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/ErrorHandler.php
+        | Строка: 111 
+ ======================================
+[2021-12-22 23:20:12] Текст ошибки: Call to a member function fetchAll() on bool | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 31 
+ ======================================
+[2021-12-22 23:20:13] Текст ошибки: session_start(): Session cannot be started after headers have already been sent | Файл: /home/lesia/Документы/dir1/mysite/Framework/Session/Session.php
+        | Строка: 20 
+ ======================================
+[2021-12-23 16:27:22] Текст ошибки: App\Model\UserModel::getByField(): Return value must be of type ?array, none returned | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 16:31:13] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'alinaSOBAKA@gmail.com'  AND password = '12345678'' at line 2 | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 26 
+ ======================================
+[2021-12-23 16:31:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 'alinaSOBAKA@gmail.com'  AND password = '12345678'' at line 2 | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 26 
+ ======================================
+[2021-12-23 16:39:41] Текст ошибки: Call to a member function fetchAll() on bool | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 16:40:58] Текст ошибки: Class "App\Model\NotSuchUserException" not found | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 37 
+ ======================================
+[2021-12-23 16:41:13] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 37 
+ ======================================
+[2021-12-23 16:41:55] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-23 18:22:48] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-23 18:22:52] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-23 18:23:20] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-23 18:26:34] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3 | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 18 
+ ======================================
+[2021-12-23 18:31:18] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:31:49] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:31:53] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:31:58] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:32:20] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:34:16] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 33 
+ ======================================
+[2021-12-23 18:34:45] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 31 
+ ======================================
+[2021-12-23 18:34:51] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 31 
+ ======================================
+[2021-12-23 18:35:53] Текст ошибки: syntax error, unexpected token "*" | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:36:08] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 42 
+ ======================================
+[2021-12-23 18:36:14] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 42 
+ ======================================
+[2021-12-23 18:37:56] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 18:39:25] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 18:39:30] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 18:39:34] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 18:39:52] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 18:41:28] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 46 
+ ======================================
+[2021-12-23 18:42:06] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2021-12-23 18:45:50] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:46:21] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:46:51] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 18:46:57] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:47:53] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:50:18] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:56:53] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:58:20] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:58:45] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 18:59:34] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:01:02] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:01:30] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:02:05] Текст ошибки: Too few arguments to function Framework\Core\Authentication\Authentication::authentication(), 2 passed in /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php on line 21 and exactly 3 expected | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 22 
+ ======================================
+[2021-12-23 19:02:40] Текст ошибки: Undefined array key "id" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-23 19:02:40] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:03:39] Текст ошибки: Undefined array key "phone" | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php
+        | Строка: 21 
+ ======================================
+[2021-12-23 19:03:39] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:04:13] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:09:38] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:10:12] Текст ошибки: Too few arguments to function App\Model\UserModel::getByField(), 1 passed in /home/lesia/Документы/dir1/mysite/App/Service/UserService.php on line 21 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 11 
+ ======================================
+[2021-12-23 19:11:20] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:11:24] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:30:43] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:33:12] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:33:56] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:36:02] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:39:37] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 53 
+ ======================================
+[2021-12-23 19:39:49] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:40:51] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:41:28] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:41:37] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:41:55] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 19:42:07] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:44:58] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:47:48] Текст ошибки: Call to a member function debugDumpParams() on array | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 19 
+ ======================================
+[2021-12-23 19:50:25] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:50:52] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:52:25] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:56:26] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:56:36] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:56:41] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 19:59:57] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 20:00:14] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 20:08:49] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:23] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-23 20:09:37] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:49] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:51] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:52] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:52] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:09:52] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:11:22] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:11:55] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 41 
+ ======================================
+[2021-12-23 20:12:06] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 40 
+ ======================================
+[2021-12-23 20:12:16] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:14:14] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 20:14:25] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 44 
+ ======================================
+[2021-12-23 20:16:23] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 40 
+ ======================================
+[2021-12-23 20:16:31] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 40 
+ ======================================
+[2021-12-23 20:21:07] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 43 
+ ======================================
+[2021-12-23 20:21:13] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 42 
+ ======================================
+[2021-12-23 20:27:20] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 20:29:02] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 20:31:26] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 20:34:04] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 20:34:11] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 20:43:09] Текст ошибки: Undefined property: App\Model\UserModel::$dbConnect | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php
+        | Строка: 38 
+ ======================================
+[2021-12-23 20:43:09] Текст ошибки: Call to a member function prepare() on null | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 38 
+ ======================================
+[2021-12-23 20:46:18] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 51 
+ ======================================
+[2021-12-23 20:48:39] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 20:56:06] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:00:18] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:00:28] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:00:56] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 51 
+ ======================================
+[2021-12-23 21:02:51] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 49 
+ ======================================
+[2021-12-23 21:06:17] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:06:58] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:07:36] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:08:04] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 47 
+ ======================================
+[2021-12-23 21:08:49] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:09:32] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:10:58] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 21:12:01] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 21:55:20] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, none returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 21:56:25] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 22:00:58] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:14:29] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:14:29] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:20:11] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 46 
+ ======================================
+[2021-12-23 23:20:11] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 46 
+ ======================================
+[2021-12-23 23:20:39] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 46 
+ ======================================
+[2021-12-23 23:20:40] Текст ошибки: Unclosed '{' on line 9 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 46 
+ ======================================
+[2021-12-23 23:21:02] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, bool returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 23:21:26] Текст ошибки: Framework\Database\Db::connect(): Return value must be of type ?PDO, bool returned | Файл: /home/lesia/Документы/dir1/mysite/Framework/Database/Db.php 
+        | Строка: 45 
+ ======================================
+[2021-12-23 23:22:37] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:22:47] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:29:22] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:30:47] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:44:31] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:44:38] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:45:44] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:51:08] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:52:30] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-23 23:55:44] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2021-12-24 00:03:05] Текст ошибки: Нет такого пользователя  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 51 
+ ======================================
+[2021-12-24 00:35:14] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 27 
+ ======================================
+[2021-12-24 00:35:36] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 27 
+ ======================================
+[2021-12-24 00:35:40] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 27 
+ ======================================
+[2021-12-24 00:35:54] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 28 
+ ======================================
+[2021-12-24 00:50:13] Текст ошибки: Too few arguments to function App\Model\UserModel::getAuthUser(), 0 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 26 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 21 
+ ======================================
+[2021-12-24 00:50:29] Текст ошибки: Too few arguments to function App\Model\UserModel::getAuthUser(), 0 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 26 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 21 
+ ======================================
+[2021-12-24 00:50:54] Текст ошибки: Undefined array key 0 | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 28 
+ ======================================
+[2021-12-24 00:52:37] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 28 
+ ======================================
+[2021-12-24 00:53:04] Текст ошибки: Undefined array key "name" | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 28 
+ ======================================
+[2021-12-24 00:53:29] Текст ошибки: Undefined array key "name" | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php
+        | Строка: 28 
+ ======================================
+[2021-12-24 10:12:59] Текст ошибки: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-24 10:14:51] Текст ошибки: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-24 10:15:54] Текст ошибки: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 26 
+ ======================================
+[2021-12-24 12:04:30] Текст ошибки: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-24 12:16:27] Текст ошибки: Xdebug has detected a possible infinite loop, and aborted your script with a stack depth of '256' frames | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-24 12:26:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-24 12:59:46] Текст ошибки: require_once(../App/View/Templates/change-data-user.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 10 
+ ======================================
+[2021-12-24 12:59:46] Текст ошибки: Failed opening required '../App/View/Templates/change-data-user.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 10 
+ ======================================
+[2021-12-24 13:02:04] Текст ошибки: require_once(../App/View/Templates/user/addUser.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:02:04] Текст ошибки: Failed opening required '../App/View/Templates/user/addUser.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:03:47] Текст ошибки: require_once(../App/View/Templates/user/changeUser.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:03:47] Текст ошибки: Failed opening required '../App/View/Templates/user/changeUser.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:04:47] Текст ошибки: require_once(../App/View/Templates/user/changeUser.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:04:47] Текст ошибки: Failed opening required '../App/View/Templates/user/changeUser.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:04:50] Текст ошибки: require_once(../App/View/Templates/user/changeUser.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:04:50] Текст ошибки: Failed opening required '../App/View/Templates/user/changeUser.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:05:15] Текст ошибки: require_once(../App/View/Templates/user/changeUser.php): Failed to open stream: No such file or directory | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:05:15] Текст ошибки: Failed opening required '../App/View/Templates/user/changeUser.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/Документы/dir1/mysite/Framework/Templeater/Templeater.php 
+        | Строка: 17 
+ ======================================
+[2021-12-24 13:06:05] Текст ошибки: Undefined variable $title | Файл: /home/lesia/Документы/dir1/mysite/App/View/Common/Header/header.php
+        | Строка: 17 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-24 14:14:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-24 14:15:00] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-24 14:24:11] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-24 14:24:25] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-24 14:32:45] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-25 18:15:56] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 20:37:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-27 20:48:15] Текст ошибки: App\Service\UserService::getAuthUser(): Return value must be of type App\Entity\User, null returned | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 27 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 20:48:32] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 21:23:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 21:23:09] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 38 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:05:14] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:05:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:07:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:08:16] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:10:11] Текст ошибки: Call to undefined method App\Repository\UserMapper::mapUser() | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 22 
+ ======================================
+[2021-12-27 22:10:25] Текст ошибки: Call to undefined method App\Repository\UserMapper::mapUser() | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 22 
+ ======================================
+[2021-12-27 22:11:31] Текст ошибки: Too few arguments to function App\Service\UserService::getAuthUser(), 1 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 32 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-27 22:12:11] Текст ошибки: Too few arguments to function App\Service\UserService::getAuthUser(), 1 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 32 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-27 22:13:25] Текст ошибки: Too few arguments to function App\Service\UserService::getAuthUser(), 1 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 31 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-27 22:14:28] Текст ошибки: Too few arguments to function App\Service\UserService::getAuthUser(), 1 passed in /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php on line 31 and exactly 2 expected | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 25 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php
+        | Строка: 23 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Array to string conversion | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php
+        | Строка: 23 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:14:52] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:15:37] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:18:29] Текст ошибки: Too few arguments to function Framework\Core\Authentication\Authentication::authentication(), 2 passed in /home/lesia/Документы/dir1/mysite/App/Controller/AuthenticationController.php on line 23 and exactly 3 expected | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 23 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:19:33] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:22:23] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:23:15] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:25:40] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:26:52] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:26:59] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:27:28] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:28:51] Текст ошибки: syntax error, unexpected token ";", expecting ")" | Файл: /home/lesia/Документы/dir1/mysite/Framework/Core/Authentication/Authentication.php 
+        | Строка: 26 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:29:04] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:30:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:30:30] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 31 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 32 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 33 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 34 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 35 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 36 
+ ======================================
+[2021-12-27 22:30:54] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Repository/UserMapper.php
+        | Строка: 37 
+ ======================================
+[2021-12-27 22:33:31] Текст ошибки: App\Service\UserService::getAuthUser(): Return value must be of type App\Entity\User, null returned | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 27 
+ ======================================
+[2021-12-27 22:34:03] Текст ошибки: App\Service\UserService::getAuthUser(): Return value must be of type App\Entity\User, null returned | Файл: /home/lesia/Документы/dir1/mysite/App/Service/UserService.php 
+        | Строка: 27 
+ ======================================
+[2022-01-04 15:53:11] Текст ошибки: Call to undefined method App\Controller\RegistrationController::register() | Файл: /home/lesia/Документы/dir1/mysite/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-05 11:46:37] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-05 11:47:19] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-05 11:48:28] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 11:48:33] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 11:49:06] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 11:50:06] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 11:55:36] Текст ошибки: Typed property App\Controller\JewelryController::$jewelryService must not be accessed before initialization | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 12:00:36] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-05 12:00:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-05 12:00:36] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-05 12:00:36] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-05 12:00:36] Текст ошибки: Call to undefined method App\Model\JewelryModel::createBook() | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php 
+        | Строка: 29 
+ ======================================
+[2022-01-05 14:37:01] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-05 14:37:01] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-05 14:37:01] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-05 14:37:01] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-05 14:37:01] Текст ошибки: Call to undefined method App\Model\JewelryModel::createBook() | Файл: /home/lesia/Документы/dir1/mysite/App/Service/JewelryService.php 
+        | Строка: 29 
+ ======================================
+[2022-01-05 14:38:09] Текст ошибки: Call to undefined method App\Service\JewelryService::createBook() | Файл: /home/lesia/Документы/dir1/mysite/App/Controller/JewelryController.php 
+        | Строка: 19 
+ ======================================
+[2022-01-05 15:16:25] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 77 
+ ======================================
+[2022-01-05 15:16:33] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 77 
+ ======================================
+[2022-01-05 15:17:32] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 76 
+ ======================================
+[2022-01-05 15:17:59] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 77 
+ ======================================
+[2022-01-05 15:21:10] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 76 
+ ======================================
+[2022-01-05 15:21:20] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 76 
+ ======================================
+[2022-01-05 15:23:39] Текст ошибки:  | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 76 
+ ======================================
+[2022-01-05 15:24:26] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'create_time' doesn't have a default value | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
+        | Строка: 81 
+ ======================================

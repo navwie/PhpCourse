@@ -6,19 +6,44 @@ return [
         "action" => "main"
     ],
     '^login$' => [
-        'controller' => 'main',
+        'controller' => 'authentication',
         "action" => "login"
     ],
     '^loginService$' => [
-        'controller' => 'main',
+        'controller' => 'authentication',
         "action" => "loginService"
     ],
     '^logOut$' => [
-        'controller' => 'main',
+        'controller' => 'authentication',
         "action" => "logOut"
     ],
     '^profile$' => [
-        'controller' => 'main',
+        'controller' => 'authentication',
         "action" => "profile"
-    ]
+    ],
+    '^register$' => [
+        'controller' => 'registration',
+        "action" => "register"
+    ],
+    '^changeDataUser$' => [
+        'controller' => 'User',
+        "action" => "changeDataUser"
+    ],
+    '^addProduct$' => [
+        'controller' => 'User',
+        "action" => "addProduct"
+    ],
+    '^verification$' => [
+        'controller' => 'registration',
+        "action" => "verification"
+    ],
+    '^addBook$' => [
+        'controller' => 'jewelry',
+        "action" => "addBook"
+    ],
+    '^changeUser$' => [
+        'controller' => 'user',
+        "action" => "changeUser"
+    ],
+
 ];
