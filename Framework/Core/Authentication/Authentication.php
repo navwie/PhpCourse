@@ -2,16 +2,32 @@
 
 namespace Framework\Core\Authentication;
 
+use Framework\Exception\NotUser;
+use App\Service\UserService;
+use Framework\Session\Session;
+use Framework\Validator\Validator;
+use App\Model\UserModel;
+
 class Authentication
 {
-    private string $email = 'navwie@gmail.com';
-    private string $password = '12345678';
+    private UserService $userService;
+    private Session $session;
+    private Validator $validator;
 
-    public function authentication(string $login, string $password): bool
+    public function __construct()
     {
-        if ($this->email == $login && $this->password == $password) {
-            return true;
-        }
-        return false;
+        $this->session = Session::getInstance();
+        $this->validator = new Validator();
+        $this->userService = new UserService();
+    }
+    public function authentication($email, $password)
+    {
+        $users = $this->userService->getAuthUser($email, $password);
+        return isset($users);
+    }
+
+    public function getEmail(): ?string
+    {
+        return $this->session->get('email');
     }
 }

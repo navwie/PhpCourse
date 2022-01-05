@@ -42,17 +42,5 @@ $products = array(
         'img' => 'https://zolotoyvek.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/1/2/12221-08-0-158_2.webp',
         'price' => '4240',
     ],
-    [
-        'product_id' => '8',
-        'name' => 'Серебряные пуссеты с фианитами',
-        'img' => 'https://zolotoyvek.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/1/2/12221-08-0-158_2.webp',
-        'price' => '1240',
-    ],
-    [
-        'product_id' => '9',
-        'name' => 'Позолоченные пуссеты с фианитами',
-        'img' => 'https://zolotoyvek.ua/media/catalog/product/cache/7d867076b0c31e5e4acf36489cc1e4f1/1/2/12221-08-0-158_2.webp',
-        'price' => '3240',
-    ],
 )
 ?>

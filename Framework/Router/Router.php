@@ -1,6 +1,8 @@
 <?php
 
-namespace Framework;
+namespace Framework\Router;
+
+use Framework\Exception\NoController;
 
 class Router
 {
@@ -42,6 +44,8 @@ class Router
             if (class_exists($str)) {
                 $object = new $str($url);
                 $object->$act();
+            }else{
+                throw new NoController();
             }
         }
     }

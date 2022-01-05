@@ -1,4 +1,4 @@
-<div class="profile-page">
+<div class="page">
     <?php
     session_id();
     ?>
