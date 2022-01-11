@@ -1784,3 +1784,168 @@ Stack trace:
 [2022-01-05 15:24:26] Текст ошибки: SQLSTATE[HY000]: General error: 1364 Field 'create_time' doesn't have a default value | Файл: /home/lesia/Документы/dir1/mysite/App/Model/UserModel.php 
         | Строка: 81 
  ======================================
+[2022-01-11 22:16:31] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 23 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 23 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки: Undefined array key "discount_id" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 34 
+ ======================================
+[2022-01-11 22:16:31] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 41 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 23 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 23 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: Undefined array key "image" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки: Undefined array key "discount_id" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 34 
+ ======================================
+[2022-01-11 22:18:55] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 41 
+ ======================================
+[2022-01-11 22:19:00] Текст ошибки: move_uploaded_file(image/photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:19:00] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpAXnNnD&quot; to &quot;image/photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 24 
+ ======================================
+[2022-01-11 22:19:00] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:19:00] Текст ошибки: Undefined array key "discount_id" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 34 
+ ======================================
+[2022-01-11 22:19:00] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 41 
+ ======================================
+[2022-01-11 22:21:43] Текст ошибки: move_uploaded_file(image/photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:21:43] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpxEuCKB&quot; to &quot;image/photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:21:43] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-11 22:21:43] Текст ошибки: Undefined array key "discount_id" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 35 
+ ======================================
+[2022-01-11 22:21:43] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 41 
+ ======================================
+[2022-01-11 22:23:25] Текст ошибки: move_uploaded_file(image/photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:23:25] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php7AaNBC&quot; to &quot;image/photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 25 
+ ======================================
+[2022-01-11 22:23:25] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 26 
+ ======================================
+[2022-01-11 22:23:25] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:24:30] Текст ошибки: move_uploaded_file(image/Алеся_photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:24:30] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php8FUx1C&quot; to &quot;image/Алеся_photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:24:30] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:25:46] Текст ошибки: move_uploaded_file(image/Алеся_photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:25:46] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php5p5vdE&quot; to &quot;image/Алеся_photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:25:46] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:27:16] Текст ошибки: move_uploaded_file(image/Алеся_photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:27:16] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpOLYWBE&quot; to &quot;image/Алеся_photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:27:16] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:30:55] Текст ошибки: move_uploaded_file(image/photo_2021-12-08_13-24-20.jpg): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:30:55] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpjKO0uD&quot; to &quot;image/photo_2021-12-08_13-24-20.jpg&quot; | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-11 22:30:55] Текст ошибки: chmod(): No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Service/JewelryService.php
+        | Строка: 29 
+ ======================================
+[2022-01-11 22:30:55] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:31:51] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:33:45] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 39 
+ ======================================
+[2022-01-11 22:36:57] Текст ошибки: require_once(../public/models/listProducts/list-of-profucts.php): Failed to open stream: No such file or directory | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 5 
+ ======================================
+[2022-01-11 22:36:57] Текст ошибки: Failed opening required '../public/models/listProducts/list-of-profucts.php' (include_path='.:/usr/share/php') | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php 
+        | Строка: 5 
+ ======================================
+[2022-01-11 22:37:29] Текст ошибки: Undefined variable $products | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:37:29] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:38:27] Текст ошибки: Undefined variable $products | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:38:27] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:39:49] Текст ошибки: Undefined array key "products" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:39:49] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 12 
+ ======================================
+[2022-01-11 22:46:56] Текст ошибки: Undefined array key "name" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 18 
+ ======================================
+[2022-01-11 22:46:56] Текст ошибки: Undefined array key "name" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 18 
+ ======================================
+[2022-01-11 22:46:56] Текст ошибки: Undefined array key "name" | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/View/Templates/main.php
+        | Строка: 18 
+ ======================================
+[2022-01-11 23:09:02] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 57 
+ ======================================

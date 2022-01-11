@@ -3,19 +3,23 @@
 namespace App\Controller;
 
 use Framework\Core\BaseController\BaseController;
-use Framework\Templeater\Templeater;
-use Framework\core\Session;
+use App\Service\JewelryService;
 
 class MainController extends BaseController
 {
+    private JewelryService $jewelryService;
+
     public function __construct()
     {
         parent::__construct();
+        $this->jewelryService = new JewelryService();
     }
 
     public function main()
     {
-        $this->templeater->render('Main', 'main');
+        $allJewelry = $this->jewelryService->all();
+
+        $this->templeater->render('Main', 'catalog', ['products' => $allJewelry]);
     }
 
 }

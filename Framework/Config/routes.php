@@ -37,9 +37,9 @@ return [
         'controller' => 'registration',
         "action" => "verification"
     ],
-    '^addBook$' => [
+    '^createJewelry$' => [
         'controller' => 'jewelry',
-        "action" => "addBook"
+        "action" => "createJewelry"
     ],
     '^changeUser$' => [
         'controller' => 'user',
