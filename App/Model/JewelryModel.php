@@ -8,37 +8,55 @@ use Framework\Core\AbstractModel\Model;
 
 class JewelryModel extends Model
 {
-    public function setNewJewelry(
+    public function createJewelry(
         $title,
         $type_id,
         $material_id,
         $price,
         $description,
         $image,
-        $discount_id,
         $amount
     ): void
     {
         try {
             $result = $this->dbConnect->prepare("
                 INSERT 
-                INTO `product`
-                (title, type_id, material_id, price, description, image, discount_id, amount)
+                INTO `jewelry`
+                (title, type_id, material_id, price, description, image, amount)
                 VALUES 
-                (:title, :type_id, :material_id, :price, :description, :image, :discount_id, :amount) 
+                (:title, :type_id, :material_id, :price, :description, :image,:amount) 
             ");
             $result->execute([
                 ":title" => $title,
                 ":type_id" => $type_id,
                 ":material_id" => $material_id,
                 ":price" => $price,
-                ":desctiption" => $description,
+                ":description" => $description,
                 ':image' => $image,
-                ":discount_id" => $discount_id,
                 ":amount" => $amount,
             ]);
         } catch (PDOException $e) {
+            var_dump($e->getMessage());
+            die();
             throw new $e();
         }
+    }
+
+    public function all(): bool|array
+    {
+        try {
+            $query = '
+                SELECT * 
+                FROM `jewelry`
+            ';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute();
+
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+
+        return $result->fetchAll();
     }
 }

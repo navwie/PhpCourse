@@ -7,6 +7,7 @@ html, body {
     height: 100%;
     margin: 0;
     background-attachment: fixed;
+
 }
 
 .nav-item a{
@@ -25,12 +26,13 @@ section h1 {
     justify-content: space-between;
     flex-wrap: wrap;
     width: 350px;
-    height: 350px;
+    height: 450px;
     margin-left: 80px;
     background-color: #f5ece6;
     margin-bottom: 50px;
     border-radius: 30px;
-    padding: 20px
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .btn {
@@ -50,6 +52,7 @@ img {
     width: 50%;
     margin-left: 90px;
     margin-bottom: 20px;
+    border-radius: 20px;
 }
 .page{
     width: 100%;
@@ -219,8 +222,24 @@ h2{
 .custom-control{
     position: relative;
     display: block;
-    padding-left: 80px;
+    margin-right: 150px;
 }
+.custom-control input{
+    position: relative;
+    margin-right: -273px;
+    width: 300px;
+    top: 5px;
+}
+
+.custom-control label{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+}
+.product p{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+}
+
 
 #input-file-id{
     border: none;

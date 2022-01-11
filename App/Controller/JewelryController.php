@@ -11,12 +11,13 @@ class JewelryController extends BaseController
 
     public function __construct()
     {
+        parent::__construct();
         $this->jewelryService = new JewelryService();
     }
 
-    public function addBook(): void
+    public function createJewelry(): void
     {
-        $this->jewelryService->createBook();
+        $this->jewelryService->createJewelry();
         header("Location: /");
     }
 }
