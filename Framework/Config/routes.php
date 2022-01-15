@@ -45,5 +45,21 @@ return [
         'controller' => 'user',
         "action" => "changeUser"
     ],
+    '^changeJewelry$' => [
+        'controller' => 'jewelry',
+        "action" => "changeJewelry"
+    ],
+    '^admin$' => [
+        'controller' => 'admin',
+        "action" => "index"
+    ],
+    '^mainUser$' => [
+        'controller' => 'User',
+        "action" => "main"
+    ],
+    '^mainAdmin$' => [
+        'controller' => 'Admin',
+        "action" => "main"
+    ],
 
 ];
