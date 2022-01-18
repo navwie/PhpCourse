@@ -24,7 +24,7 @@ class Session
 
     public function isSessionExist()
     {
-        return !empty($_SESSION);
+        return isset($_SESSION);
     }
 
     public function destroy()
@@ -57,9 +57,7 @@ class Session
 
     public function deleteKey($key)
     {
-        if (self::isKeyExist($key) && self::isSessionExist()) {
-            unset($_SESSION[$key]);
-        }
+        unset($_SESSION[$key]);
     }
 
     public function setName($name)
@@ -86,7 +84,7 @@ class Session
 
     public function getId()
     {
-        if (self::isSessionExist()) {
+        if($this->isSessionExist()) {
             return session_id();
         }
         return null;

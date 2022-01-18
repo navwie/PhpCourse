@@ -20,9 +20,10 @@ class RegistrationController extends BaseController
             $_POST['surname'],
             $_POST['email'],
             $_POST['phone'],
-            $_POST['password']
+            $_POST['password'],
+            $_POST['role']
+
         );
-        var_dump($result);
 
         if ($result) {
             header('Location: /login');

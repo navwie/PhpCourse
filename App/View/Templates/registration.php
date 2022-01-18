@@ -24,12 +24,21 @@
                     <label for="password">Пароль</label>
                     <input type="password" id="password" name="password" placeholder="Введите пароль">
                 </div>
-                <div class="form-group mt-4">
-                    <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" name="role">
-                    <label class="form-check-label" for="flexCheckDefault">
-                        Я администратор
-                    </label>
+                <div class="form-group mt-4 ">
+                    <p>Администратор?</p>
+                    <div class="radioChoice3">
+                        <div class="custom-control custom-radio">
+                            <input type="radio" class="custom-control-input" value="1" id="role"   name="role">
+                            <label class="custom-control-label" for="role"> Да </label>
+                        </div>
+
+                        <div class="custom-control custom-radio">
+                            <input type="radio" class="custom-control-input"  value="0" id="role"  name="role">
+                            <label class="custom-control-label" for="role">Нет</label>
+                        </div>
+                    </div>
                 </div>
+
                 <div class="form-group text-center">
                     <button type="submit" class="btn btn-outline-dark">Зарегистрироваться</button>
                 </div>

@@ -17,9 +17,9 @@ class UserService
         $this->userModel = new UserModel();
     }
 
-    public function getByField(array $params, $role = 0): array
+    public function getByField(array $params): array
     {
-        return $this->userMapper->mapUser($this->userModel->getByField($params, $role));
+        return $this->userMapper->mapUser($this->userModel->getByField($params));
     }
 
     public function getAuthUser($email, $password): ?User
@@ -27,12 +27,25 @@ class UserService
         return $this->userMapper->mapUserToObject($this->userModel->getAuthUser($email, $password));
     }
 
+    public function updateUser(int $userId): void
+    {
+        $this->userModel->updateUser(
+            $userId,
+            $_POST['name'],
+            $_POST['surname'],
+            $_POST['email'],
+            $_POST['password'],
+            $_POST['phone'],
+        );
+    }
+
     public function setNewUser(
         string $name,
         string $surname,
         string $email,
         string $phone,
-        string $password
+        string $password,
+        string $role
     ): void
     {
         $this->userModel->setNewUser(
@@ -40,7 +53,8 @@ class UserService
             $surname,
             $email,
             $phone,
-            $password
+            $password,
+            $role
         );
 
     }

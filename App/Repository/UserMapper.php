@@ -3,6 +3,7 @@
 namespace App\Repository;
 
 use App\Entity\User;
+use JetBrains\PhpStorm\Pure;
 
 class UserMapper
 {

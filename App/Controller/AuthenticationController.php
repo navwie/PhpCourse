@@ -14,18 +14,19 @@ class AuthenticationController extends BaseController
 
     public function profile()
     {
-        $this->templeater->render('Profile', 'profile');
+        $this->templeater->renderUser('Profile', 'profile');
+
     }
 
     public function loginService()
     {
 
-        if ($this->authentication->authentication($_POST["email"], $_POST["password"])) {
-            header('Location: /profile');
+        match($this->authentication->authentication($_POST["email"], $_POST["password"])) {
 
-        } else {
-            header('Location: /login');
-        }
+            'admin' => header('location: /admin'),
+            'user' => header('location: /profile'),
+            null => header("location: /login")
+        };
     }
 
     public function logOut()

@@ -9,19 +9,13 @@ use Framework\Core\ErrorHandler;
 use Framework\Session\Session;
 use Framework\Router\Router;
 
-/*$db = mysqli_connect ("localhost", "lesia_lykhova_db", "1");
-mysqli_select_db ($db, 'lesia_lykhova_db');
-$result = mysqli_query ($db, "SELECT * FROM user");
-$users = mysqli_fetch_all($result);
-var_dump($users);*/
+$session = new Session();
+$session->set('userId', 1);
+$session->start();
 
 $exception = new ErrorHandler();
 $exception->register();
 
-$session = new Session();
-$session->start();
-
 $router = new Router();
 $router->matchRoute();
 
-$session->destroy();

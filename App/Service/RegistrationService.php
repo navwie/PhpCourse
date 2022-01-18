@@ -28,15 +28,36 @@ class RegistrationService
         string $surname,
         string $email,
         string $phone,
-        string $password
+        string $password,
+        string $role
+
     ): bool
     {
+        try {
+            $this->validator->onRegistrationUser(
+                $name,
+                $surname,
+                $email,
+                $phone,
+                $password
+            );
+        } catch (
+        UnccorectNameException
+        |UncorrectSurnameException
+        |UncorrectEmailException
+        |UncorrectPhoneException
+        |UncorrectPasswordException $e
+        ) {
+            $this->validator->setRegistrationError($e);
+            return false;
+        }
         $this->userService->setNewUser(
             $name,
             $surname,
             $email,
             $phone,
-            $password
+            $password,
+            $role
         );
         return true;
     }
