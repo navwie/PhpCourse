@@ -1949,3 +1949,1902 @@ Stack trace:
 [2022-01-11 23:09:02] Текст ошибки:  | Файл: /home/lesia/PhpstormProjects/nix-site/PhpCourse/App/Model/JewelryModel.php 
         | Строка: 57 
  ======================================
+[2022-01-15 20:45:38] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2022-01-15 20:47:49] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2022-01-15 20:47:50] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2022-01-15 20:47:56] Текст ошибки: Cannot assign null to property Framework\Core\AbstractModel\Model::$dbConnect of type PDO | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/AbstractModel/Model.php 
+        | Строка: 14 
+ ======================================
+[2022-01-15 20:57:27] Текст ошибки: Class "App\Controller\UserService" not found | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 15 
+ ======================================
+[2022-01-15 21:06:25] Текст ошибки: Контроллер или экшн не найден  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 48 
+ ======================================
+[2022-01-15 21:08:01] Текст ошибки: Undefined property: App\Controller\AdminController::$templeater | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:08:01] Текст ошибки: Call to a member function renderAdmin() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php 
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:08:02] Текст ошибки: Undefined property: App\Controller\AdminController::$templeater | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:08:02] Текст ошибки: Call to a member function renderAdmin() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php 
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:08:11] Текст ошибки: Undefined property: App\Controller\AdminController::$templeater | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:08:11] Текст ошибки: Call to a member function renderAdmin() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AdminController.php 
+        | Строка: 12 
+ ======================================
+[2022-01-15 21:11:39] Текст ошибки: Class "App\Controller\UserService" not found | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 15 
+ ======================================
+[2022-01-15 21:12:23] Текст ошибки: Call to undefined method App\Controller\UserController::addProduct() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-15 21:17:52] Текст ошибки: move_uploaded_file(images/Золотое кольцо_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:17:52] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpPqJAPR&quot; to &quot;images/Золотое кольцо_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:17:52] Текст ошибки: chmod(): No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-15 21:20:04] Текст ошибки: move_uploaded_file(images/rjweef_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:20:04] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php7K2ExR&quot; to &quot;images/rjweef_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:20:04] Текст ошибки: chmod(): No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-15 21:25:02] Текст ошибки: move_uploaded_file(images/Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:25:02] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php4XaCYJ&quot; to &quot;images/Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:25:02] Текст ошибки: chmod(): No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-15 21:26:38] Текст ошибки: move_uploaded_file(images/sdasd_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:26:38] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpCp2DfR&quot; to &quot;images/sdasd_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:30:56] Текст ошибки: move_uploaded_file(images/wef3_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:30:56] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpryPoXJ&quot; to &quot;images/wef3_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:31:14] Текст ошибки: chmod(): No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:31:14] Текст ошибки: move_uploaded_file(images/wef3_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-15 21:31:14] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/php3poWBN&quot; to &quot;images/wef3_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-15 21:31:39] Текст ошибки: move_uploaded_file(images/wef3_Золотое кольцо.jpg): Failed to open stream: Permission denied | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:31:39] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpypXtMK&quot; to &quot;images/wef3_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-15 21:34:56] Текст ошибки: Call to undefined method Framework\Core\Authentication\Authentication::is() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 23 
+ ======================================
+[2022-01-15 21:35:00] Текст ошибки: Call to undefined method Framework\Core\Authentication\Authentication::is() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 23 
+ ======================================
+[2022-01-15 21:35:06] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 22 
+ ======================================
+[2022-01-15 21:35:06] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 22 
+ ======================================
+[2022-01-15 21:35:06] Текст ошибки: is_uploaded_file(): Passing null to parameter #1 ($filename) of type string is deprecated | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 22 
+ ======================================
+[2022-01-16 00:05:56] Текст ошибки: move_uploaded_file(images/Кольцо из красного золота Артикул 18153/01/0_Золотое кольцо.jpg): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-16 00:05:56] Текст ошибки: move_uploaded_file(): Unable to move &quot;/tmp/phpJxSkQM&quot; to &quot;images/Кольцо из красного золота Артикул 18153/01/0_Золотое кольцо.jpg&quot; | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 27 
+ ======================================
+[2022-01-16 00:05:56] Текст ошибки: chmod(): No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 28 
+ ======================================
+[2022-01-16 00:19:43] Текст ошибки: Call to undefined method Framework\Core\Authentication\Authentication::is() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 23 
+ ======================================
+[2022-01-16 00:19:46] Текст ошибки: Call to undefined method Framework\Core\Authentication\Authentication::is() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 23 
+ ======================================
+[2022-01-16 00:29:04] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:32:53] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:32:53] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 00:32:53] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 00:32:53] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 00:42:30] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:45:03] Текст ошибки: syntax error, unexpected variable "$this", expecting ":" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 22 
+ ======================================
+[2022-01-16 00:45:16] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:45:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:45:34] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:45:35] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:46:22] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:48] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:51] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:51:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:55:34] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:55:35] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:55:36] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:55:36] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:55:39] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:56:06] Текст ошибки: Too few arguments to function App\Service\UserService::getByField(), 0 passed in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 26 and at least 1 expected | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 20 
+ ======================================
+[2022-01-16 00:56:15] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 00:58:52] Текст ошибки: Typed property App\Controller\UserController::$session must not be accessed before initialization | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 28 
+ ======================================
+[2022-01-16 01:00:03] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 30 
+ ======================================
+[2022-01-16 01:00:35] Текст ошибки: Undefined variable $currentUser | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:00:35] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:00:35] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:00:35] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:01:42] Текст ошибки: Undefined array key "$id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:02:04] Текст ошибки: Undefined array key "" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:02:05] Текст ошибки: Undefined array key "" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:02:22] Текст ошибки: Undefined array key "" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:02:27] Текст ошибки: Undefined array key "" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 31 
+ ======================================
+[2022-01-16 01:02:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:05:08] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:05:29] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:08:08] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:08:43] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:09:45] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:09:45] Текст ошибки: App\Service\UserService::getByField(): Return value must be of type array, none returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 24 
+ ======================================
+[2022-01-16 01:10:14] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:10:14] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:10:14] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:10:14] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:10:40] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:10:40] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:10:40] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:10:40] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:12:48] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:12:48] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:12:48] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:12:48] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:14:38] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:14:38] Текст ошибки: Call to undefined method App\Repository\UserMapper::var_dump() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 23 
+ ======================================
+[2022-01-16 01:15:03] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:15:03] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/UserMapper.php
+        | Строка: 14 
+ ======================================
+[2022-01-16 01:15:03] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:15:03] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:15:03] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:15:25] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 01:15:25] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:15:25] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 01:15:25] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:35:15] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:35:15] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:35:15] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:35:15] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:39:53] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:39:53] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:39:53] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:39:53] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:40:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:40:55] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:40:55] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:40:55] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:49] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:45:49] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:49] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:49] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:51] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:45:51] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:51] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:45:51] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:05] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:46:05] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:05] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:05] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:06] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:07] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:46:07] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:07] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:07] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:11] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:46:11] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:11] Текст ошибки: require_once(../App/View/Templates/user/Array.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:46:11] Текст ошибки: Failed opening required '../App/View/Templates/user/Array.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 10:47:58] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 23 
+ ======================================
+[2022-01-16 10:50:29] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 27 
+ ======================================
+[2022-01-16 10:56:32] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 37 
+ ======================================
+[2022-01-16 10:56:51] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 37 
+ ======================================
+[2022-01-16 10:58:44] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 37 
+ ======================================
+[2022-01-16 10:59:50] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 10:59:58] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:00:14] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:00:16] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:00:17] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:00:17] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:00:52] Текст ошибки: Call to a member function getRole() on array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 32 
+ ======================================
+[2022-01-16 11:01:56] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:03:30] Текст ошибки: Cannot use object of type App\Entity\User as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 36 
+ ======================================
+[2022-01-16 11:11:14] Текст ошибки: syntax error, unexpected token "=>", expecting ")" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 26 
+ ======================================
+[2022-01-16 11:12:42] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:25] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:25] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:26] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:27] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:34] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:13:36] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:15:47] Текст ошибки: Undefined array key "admin" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 11:15:47] Текст ошибки: Undefined array key "user" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php
+        | Строка: 27 
+ ======================================
+[2022-01-16 11:15:47] Текст ошибки: Unhandled match case '...' | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 28 
+ ======================================
+[2022-01-16 11:38:08] Текст ошибки: require_once(../App/View/Templates/user/catalogUser.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:38:08] Текст ошибки: Failed opening required '../App/View/Templates/user/catalogUser.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:39:39] Текст ошибки: Контроллер или экшн не найден  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 11:42:30] Текст ошибки: Контроллер или экшн не найден  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 11:44:45] Текст ошибки: require_once(../App/View/Templates/user/catalogAdmin.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-16 11:44:45] Текст ошибки: Failed opening required '../App/View/Templates/user/catalogAdmin.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-16 12:22:16] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 28 
+ ======================================
+[2022-01-16 12:23:07] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 28 
+ ======================================
+[2022-01-16 12:23:30] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 28 
+ ======================================
+[2022-01-16 12:23:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 28 
+ ======================================
+[2022-01-16 12:30:25] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:30:58] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:30:58] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 45 
+ ======================================
+[2022-01-16 12:31:25] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:25] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 46 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 46 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 46 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:27] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 46 
+ ======================================
+[2022-01-16 12:31:57] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:57] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:31:58] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:58] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:31:59] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:32:19] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:32:19] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 48 
+ ======================================
+[2022-01-16 12:32:45] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 12:33:35] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 13:17:48] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 14:15:24] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 14:18:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 26 
+ ======================================
+[2022-01-16 14:31:41] Текст ошибки: Undefined array key "name" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 14:32:13] Текст ошибки: Undefined array key "name" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 9 
+ ======================================
+[2022-01-16 14:34:31] Текст ошибки: Call to a member function getSurname() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 12 
+ ======================================
+[2022-01-16 14:34:37] Текст ошибки: Call to a member function getSurname() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 12 
+ ======================================
+[2022-01-16 14:34:55] Текст ошибки: Call to a member function getSurname() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 12 
+ ======================================
+[2022-01-16 14:45:56] Текст ошибки: Call to undefined method App\Service\UserService::updateUser() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 40 
+ ======================================
+[2022-01-16 14:46:13] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 14:46:13] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 14:48:30] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 50 
+ ======================================
+[2022-01-16 14:49:06] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 51 
+ ======================================
+[2022-01-16 14:49:59] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 52 
+ ======================================
+[2022-01-16 16:34:59] Текст ошибки: syntax error, unexpected token "public" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 16:35:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 16:35:33] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 17:56:39] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 17:56:39] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 17:57:29] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 17:57:29] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 17:57:59] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 17:57:59] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 17:58:01] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 17:58:01] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 18:00:47] Текст ошибки: Too few arguments to function App\Model\UserModel::setNewUser(), 5 passed in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php on line 51 and exactly 6 expected | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 90 
+ ======================================
+[2022-01-16 18:03:12] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 114 
+ ======================================
+[2022-01-16 18:03:55] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 115 
+ ======================================
+[2022-01-16 18:07:25] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 115 
+ ======================================
+[2022-01-16 18:08:30] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:08:30] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 18:27:03] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-16 18:27:03] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-16 18:27:19] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-16 18:27:27] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-16 18:28:44] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-16 18:34:13] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:34:13] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 18:34:48] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:34:48] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:35:57] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:35:57] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:37:01] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:37:01] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:37:06] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:37:06] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:37:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:37:27] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:38:02] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:38:02] Текст ошибки: Undefined array key "login" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 38 
+ ======================================
+[2022-01-16 18:38:02] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:38:47] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:38:47] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:38:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:38:50] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:40:33] Текст ошибки: Undefined array key "$currentUser" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:40:33] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 42 
+ ======================================
+[2022-01-16 18:40:59] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:40:59] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:41:42] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:41:42] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:42:10] Текст ошибки: syntax error, unexpected token "=>", expecting "]" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:43:48] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:43:48] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 86 
+ ======================================
+[2022-01-16 18:44:47] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:44:47] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 18:44:50] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:44:50] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 18:45:05] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:45:05] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 18:46:13] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:46:57] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 82 
+ ======================================
+[2022-01-16 18:47:02] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 82 
+ ======================================
+[2022-01-16 18:47:18] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:47:32] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 18:50:23] Текст ошибки: Undefined array key "userId" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:50:23] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:50:40] Текст ошибки: Undefined array key "userId" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:50:43] Текст ошибки: Undefined array key "userId" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:53:00] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:53:00] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 18:53:37] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 18:53:37] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 22:24:27] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 22:25:51] Текст ошибки: Array to string conversion | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 83 
+ ======================================
+[2022-01-16 22:25:51] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:27:01] Текст ошибки: Undefined array key "userId" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php
+        | Строка: 33 
+ ======================================
+[2022-01-16 22:27:01] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 42 
+ ======================================
+[2022-01-16 22:31:39] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 22:31:39] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 22:34:19] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 22:34:19] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 22:35:10] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 22:35:10] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 22:37:50] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:50] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:50] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:50] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:51] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:51] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:52] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:52] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:53] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:53] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:55] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:37:55] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:38:24] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:38:24] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-16 22:39:05] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 22:39:05] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 22:40:13] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php
+        | Строка: 40 
+ ======================================
+[2022-01-16 22:40:13] Текст ошибки: App\Service\UserService::updateUser(): Argument #1 ($userId) must be of type int, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php on line 40 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 30 
+ ======================================
+[2022-01-16 22:44:05] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/UserController.php 
+        | Строка: 41 
+ ======================================
+[2022-01-16 22:52:42] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:53:20] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:54:42] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:55:21] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:56:12] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:56:42] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 22:56:49] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 88 
+ ======================================
+[2022-01-16 23:08:46] Текст ошибки: Unhandled match case false | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/AuthenticationController.php 
+        | Строка: 24 
+ ======================================
+[2022-01-16 23:48:46] Текст ошибки: Call to undefined method App\Service\JewelryService::getByField() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 29 
+ ======================================
+[2022-01-16 23:49:21] Текст ошибки: Call to undefined method App\Service\JewelryService::getByField() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 29 
+ ======================================
+[2022-01-16 23:52:01] Текст ошибки: Call to undefined method App\Service\JewelryService::getByField() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 29 
+ ======================================
+[2022-01-16 23:52:23] Текст ошибки: Call to undefined method App\Service\JewelryService::getByField() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 29 
+ ======================================
+[2022-01-16 23:52:31] Текст ошибки: Call to undefined method App\Service\JewelryService::getByField() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:01:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:01:33] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:01:40] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:01:40] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:05:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:05:52] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:05:54] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:05:54] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:05:55] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:09:32] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:09:37] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 71 
+ ======================================
+[2022-01-17 00:11:36] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:11:36] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:12:29] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:12:29] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:15:46] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:46] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:47] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:47] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:47] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:47] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:48] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:48] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:48] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:48] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:49] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:15:49] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:16:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:16:52] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:16:59] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:16:59] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:51] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:51] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:52] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:53] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:54] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:17:54] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 00:21:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:23:02] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:37:28] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:43:26] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:43:27] Текст ошибки: Undefined variable $jewelry | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:43:27] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:43:36] Текст ошибки: Undefined variable $jewelry | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:43:36] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:44:11] Текст ошибки: Undefined variable $jewelry | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:44:11] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:44:14] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:44:25] Текст ошибки: Undefined variable $jewelry | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:44:25] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:12] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:12] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:12] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:12] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:13] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:13] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:13] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:13] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:31] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:46:31] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:07] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:07] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:07] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:08] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:41] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 00:49:44] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:44] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:49:44] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 27 
+ ======================================
+[2022-01-17 00:50:44] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:50:44] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:50:44] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:51:57] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:51:57] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:51:57] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:26] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:26] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:26] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:27] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:27] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:52:27] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:53:10] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:10] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:10] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:24] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:24] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:24] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:43] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:43] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:43] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:46] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:46] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:53:46] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:55:22] Текст ошибки: Trying to access array offset on value of type int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:55:22] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 30 
+ ======================================
+[2022-01-17 00:55:49] Текст ошибки: Trying to access array offset on value of type int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:55:49] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:58:57] Текст ошибки: Trying to access array offset on value of type int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 26 
+ ======================================
+[2022-01-17 00:58:57] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 26 
+ ======================================
+[2022-01-17 01:01:15] Текст ошибки: Trying to access array offset on value of type int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:01:15] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:04:03] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:05:44] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:10:40] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:10:40] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:10:41] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:10:51] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:12:24] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:12:25] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:12:26] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:12:27] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:12:27] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:13:13] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:13:13] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:13:13] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:13:36] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 01:15:24] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 10:02:39] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 12:17:14] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:03:48] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:05:33] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:06:39] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:06:39] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:06:41] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:06:41] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:06:41] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:13:11] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:13:12] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:13:13] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:13:13] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:24:05] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:35:06] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:35:12] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:36:23] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:36:25] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:36:27] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:36:37] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:40:00] Текст ошибки: Undefined array key "jewelry" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 13:40:00] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 13:40:42] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:48:44] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 35 
+ ======================================
+[2022-01-17 13:48:51] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 35 
+ ======================================
+[2022-01-17 13:49:41] Текст ошибки: Call to a member function setId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:49:42] Текст ошибки: Call to a member function setId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:49:54] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 13:52:50] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 25 
+ ======================================
+[2022-01-17 13:55:22] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 25 
+ ======================================
+[2022-01-17 13:56:55] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 25 
+ ======================================
+[2022-01-17 13:56:57] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 25 
+ ======================================
+[2022-01-17 13:57:44] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 25 
+ ======================================
+[2022-01-17 13:58:01] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:00:38] Текст ошибки: Call to a member function getTitle() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:01:02] Текст ошибки: Call to a member function getTitle() on string | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:02:40] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:03:34] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:04:17] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:09:24] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:10:05] Текст ошибки: App\Service\JewelryService::all(): Return value must be of type array|bool, App\Entity\Jewelry returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 73 
+ ======================================
+[2022-01-17 14:10:15] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:12:22] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:27:32] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:27:34] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:28:42] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:16] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:17] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:17] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:17] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:19] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:30:19] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:31:47] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:36:01] Текст ошибки: App\Service\JewelryService::all(): Return value must be of type array|bool, none returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 74 
+ ======================================
+[2022-01-17 14:37:30] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:38:18] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:38:45] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:38:46] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:38:52] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:38:57] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:41:17] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:41:59] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:41:59] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:42:07] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 14:43:15] Текст ошибки: Undefined array key "jewelry" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:15] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:27] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:27] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:55] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:55] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:56] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:43:56] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:33] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:33] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:33] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:33] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:34] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:34] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:35] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:35] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:52] Текст ошибки: Undefined array key "product" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:44:52] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-17 14:45:07] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 14:49:38] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 18 
+ ======================================
+[2022-01-17 14:52:29] Текст ошибки: Call to a member function getId() on int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php 
+        | Строка: 29 
+ ======================================
+[2022-01-17 20:02:46] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 20:03:39] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 20:03:40] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 20:03:40] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 20:03:40] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 20:04:18] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 21:16:48] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 17 
+ ======================================
+[2022-01-17 21:17:34] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 21:17:34] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:02:20] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:02:20] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:29:51] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:29:51] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:36:09] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:36:09] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:36:34] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-17 22:36:34] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-17 23:22:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 36 
+ ======================================
+[2022-01-17 23:22:33] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:22:33] Текст ошибки: Call to a member function getImage() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:25:00] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 36 
+ ======================================
+[2022-01-17 23:25:00] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:25:00] Текст ошибки: Call to a member function getImage() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:25:03] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 36 
+ ======================================
+[2022-01-17 23:25:03] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:25:03] Текст ошибки: Call to a member function getImage() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 52 
+ ======================================
+[2022-01-17 23:33:24] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 102 
+ ======================================
+[2022-01-17 23:33:55] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:35:21] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:35:36] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:35:56] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:36:30] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:39:00] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:39:04] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 106 
+ ======================================
+[2022-01-17 23:41:50] Текст ошибки: Too few arguments to function App\Model\JewelryModel::updateJewelry(), 6 passed in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php on line 60 and exactly 9 expected | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 73 
+ ======================================
+[2022-01-17 23:46:29] Текст ошибки: Too few arguments to function App\Model\JewelryModel::updateJewelry(), 6 passed in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php on line 60 and exactly 9 expected | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 73 
+ ======================================
+[2022-01-17 23:46:30] Текст ошибки: Call to undefined method App\Entity\Jewelry::getDiscountId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 20 
+ ======================================
+[2022-01-17 23:47:08] Текст ошибки: Call to undefined method App\Entity\Jewelry::getDiscountId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 20 
+ ======================================
+[2022-01-17 23:48:14] Текст ошибки: Too few arguments to function App\Model\JewelryModel::updateJewelry(), 6 passed in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php on line 60 and exactly 9 expected | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 73 
+ ======================================
+[2022-01-17 23:49:21] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 114 
+ ======================================
+[2022-01-17 23:49:38] Текст ошибки: var_dump() expects at least 1 argument, 0 given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 113 
+ ======================================
+[2022-01-17 23:50:33] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 114 
+ ======================================
+[2022-01-17 23:50:57] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 122 
+ ======================================
+[2022-01-17 23:58:35] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 122 
+ ======================================
+[2022-01-18 00:08:18] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 122 
+ ======================================
+[2022-01-18 00:10:28] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 125 
+ ======================================
+[2022-01-18 00:13:55] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 123 
+ ======================================
+[2022-01-18 00:14:05] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 123 
+ ======================================
+[2022-01-18 00:17:04] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 115 
+ ======================================
+[2022-01-18 00:17:54] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 115 
+ ======================================
+[2022-01-18 00:33:23] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-18 00:33:23] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-18 00:33:23] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-18 00:34:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 29 
+ ======================================
+[2022-01-18 00:34:50] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php
+        | Строка: 8 
+ ======================================
+[2022-01-18 00:34:50] Текст ошибки: Call to a member function getTitle() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 8 
+ ======================================
+[2022-01-18 00:35:26] Текст ошибки: require_once(../App/View/Templates/admin/adminCatalog.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 26 
+ ======================================
+[2022-01-18 00:35:26] Текст ошибки: Failed opening required '../App/View/Templates/admin/adminCatalog.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 00:35:56] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:35:56] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:36:05] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:36:05] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:36:35] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:36:35] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/catalogAdmin.php
+        | Строка: 12 
+ ======================================
+[2022-01-18 00:37:53] Текст ошибки: Call to undefined method App\Controller\JewelryController::deleteJewelry() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-18 12:14:32] Текст ошибки: require_once(../App/View/Templates/user/change-data-admin.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 18 
+ ======================================
+[2022-01-18 12:14:32] Текст ошибки: Failed opening required '../App/View/Templates/user/change-data-admin.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 18 
+ ======================================
+[2022-01-18 12:35:32] Текст ошибки: Нет такого пользователя  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Core/Authentication/Authentication.php 
+        | Строка: 38 
+ ======================================
+[2022-01-18 12:39:42] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-18 12:39:42] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 12:40:24] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-18 12:40:24] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 13:05:38] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-18 13:05:38] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 13:06:04] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-18 13:06:04] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 13:27:04] Текст ошибки: Undefined array key "role" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php
+        | Строка: 24 
+ ======================================
+[2022-01-18 13:27:04] Текст ошибки: App\Service\RegistrationService::register(): Argument #6 ($role) must be of type string, null given, called in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/RegistrationController.php on line 24 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/RegistrationService.php 
+        | Строка: 26 
+ ======================================
+[2022-01-18 13:31:03] Текст ошибки: preg_match(): Unknown modifier '/' | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Validator/Validator.php
+        | Строка: 41 
+ ======================================
+[2022-01-18 13:31:03] Текст ошибки: preg_match(): Unknown modifier '/' | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Validator/Validator.php
+        | Строка: 41 
+ ======================================

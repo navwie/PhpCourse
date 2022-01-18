@@ -11,10 +11,11 @@ use Framework\Session\Session;
 
 class Validator
 {
-    private const NAME_REGEX = '/\w{3,}/';
+    private const NAME_REGEX = '~(?:^[а-яё]+[\-]?[а-яё]+$)|(?:^[a-z]+[\-\`]?[a-z]+$)|(?:^[абвгґдеєжзиіїйклмнопрстуфхцчшщьюя]+[\-\`]?[абвгґдеєжзиіїйклмнопрстуфхцчшщьюя]+$)~iu';
     private const EMAIL_REGEX = '/\w+@\w+\.\w+/';
     private const PHONE_REGEX = '/\+?\d{1,3}?[- .]?\(?(?:\d{2,3})\)?[- .]?\d\d\d[- .]?\d\d\d\d/';
     private const PASSWORD_REGEX = '/[a-zA-Z0-9]/';
+    private const Role_REGEX = '/[a-zA-Z0-9]/';
     private Session $session;
 
     public function __construct()
@@ -65,15 +66,6 @@ class Validator
         );
     }
 
-    public function setAdminLoginError(): void
-    {
-        $this->session->set(
-            "adminWrongCredentials",
-            '<div class="alert alert-danger" role="alert">
-                <b>Неправильные учетные данные</b>
-            </div>'
-        );
-    }
     public function setRegistrationError(\Exception $exception): void
     {
         $this->session->set(

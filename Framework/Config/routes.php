@@ -29,8 +29,12 @@ return [
         'controller' => 'User',
         "action" => "changeDataUser"
     ],
+    '^changeDataAdmin$' => [
+        'controller' => 'Admin',
+        "action" => "changeDataAdmin"
+    ],
     '^addProduct$' => [
-        'controller' => 'User',
+        'controller' => 'Admin',
         "action" => "addProduct"
     ],
     '^verification$' => [
@@ -44,6 +48,10 @@ return [
     '^changeUser$' => [
         'controller' => 'user',
         "action" => "changeUser"
+    ],
+    '^changeAdmin$' => [
+        'controller' => 'admin',
+        "action" => "changeAdmin"
     ],
     '^changeJewelry$' => [
         'controller' => 'jewelry',
@@ -61,5 +69,20 @@ return [
         'controller' => 'Admin',
         "action" => "main"
     ],
-
+    '^deleteJewelry$' => [
+        'controller' => 'jewelry',
+        "action" => "deleteJewelry"
+    ],
+    '^updateJewelry$' => [
+        'controller' => 'jewelry',
+        "action" => "updateJewelry"
+    ],
+    '^adminCatalog$' => [
+        'controller' => 'jewelry',
+        "action" => "adminCatalog"
+    ],
+    '^search$' => [
+        'controller' => 'jewelry',
+        "action" => "search"
+    ],
 ];

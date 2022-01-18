@@ -29,13 +29,17 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="/">Головна</a>
+                        <a class="nav-link active" aria-current="page" href="/mainAdmin">Головна</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/login">Вход</a>
+                        <a class="nav-link" href="/changeDataAdmin">Изменить данные о себе</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/register">Регистрация</a>
+                        <a class="nav-link" href="/addProduct">Добавить продукт</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="/logOut">Выйти</a>
                     </li>
                     <li class="nav-item">
                         <?php
@@ -45,15 +49,9 @@
                         ?>
                     </li>
                 </ul>
-                <form class="col-md-3 d-flex flex-md-row" method="post" action="/search">
-                    <div>
-                        <input class="form-control pr-4" type="text" name="search" placeholder="Search" aria-label="Search">
-                    </div>
-                    <div>
-                        <button class="btn btn-outline-light" style="margin-left: 50px" name="searchUrl" type="submit">
-                            Найти
-                        </button>
-                    </div>
+                <form class="d-flex">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
             </div>
         </div>

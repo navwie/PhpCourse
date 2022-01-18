@@ -18,7 +18,7 @@ use Framework\core\Session;
                                 <img src="<?php echo 'images/' . $product['image']; ?>" alt="">
                                 <p class="img-description text-center" style=""><strong>Описание: </strong><?php echo $product['description']; ?></p>
                                 <p class="img-description text-center"><strong>Цена:</strong> <?php echo $product['price']; ?></p>
-                                <a href="/login" class="btn buy btn-primary">Купить</a>
+                                <a href="/buy" class="btn buy btn-primary">Купить</a>
                             </div>
                         </div>
                     </div>

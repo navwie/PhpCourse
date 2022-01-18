@@ -1,7 +1,7 @@
 <div class="page">
     <div class="page-sign-up">
         <div class="d-flex col-12 form-signin container justify-content-center">
-            <form action="/changeUser" method="post">
+            <form action="/changeAdmin" method="post">
                 <h1 class="h3  fw-normal text-center">Обновить</h1>
                 <div class="form-group mt-4">
                     <label for="name">Имя</label>

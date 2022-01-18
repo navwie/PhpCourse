@@ -2,11 +2,11 @@
 
 namespace Framework\Core\Authentication;
 
-use Framework\Exception\NotUser;
 use App\Service\UserService;
+use Exception;
+use Framework\Exception\NotUser;
 use Framework\Session\Session;
 use Framework\Validator\Validator;
-use App\Model\UserModel;
 
 class Authentication
 {
@@ -20,14 +20,24 @@ class Authentication
         $this->validator = new Validator();
         $this->userService = new UserService();
     }
+
     public function authentication($email, $password)
     {
-        $users = $this->userService->getAuthUser($email, $password);
-        return isset($users);
+        $user = $this->userService->getAuthUser($email, $password);
+        try {
+            if (isset($user)) {
+                $this->session->set('userId', $user->getId());
+                $this->session->deleteKey("wrongCredentials");
+                if ((int)$user->getRole() === 1) {
+                    return 'admin';
+                }
+                return 'user';
+            }
+            throw new NotUser();
+        }catch (NotUser $e){
+            $this->validator->setLoginError();
+            return null;
+        }
     }
 
-    public function getEmail(): ?string
-    {
-        return $this->session->get('email');
-    }
 }

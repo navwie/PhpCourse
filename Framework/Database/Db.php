@@ -23,7 +23,7 @@ class Db
             return new PDO(
                 "mysql:host=localhost;dbname=lesia_lykhova_db",
                 'lesia_lykhova_db',
-                "1"
+                "111"
             );
         } catch (PDOException $e) {
             print "Error!: " . $e->getMessage() . "<br/>";

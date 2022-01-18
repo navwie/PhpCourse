@@ -2,7 +2,7 @@
 
 namespace App\Entity;
 
-class Jewelry extends Model
+class Jewelry
 {
     private $id;
     private $title;
@@ -11,9 +11,10 @@ class Jewelry extends Model
     private $price;
     private $description;
     private $image;
+    private $discount_id;
     private $amount;
 
-    public function __construct($id, $title, $type_id, $material_id, $price, $description, $image, $amount)
+    public function __construct($id, $title, $type_id, $material_id, $price, $description, $image, $discount_id, $amount)
     {
         $this->id = $id;
         $this->title = $title;
@@ -22,6 +23,7 @@ class Jewelry extends Model
         $this->price = $price;
         $this->description = $description;
         $this->image = $image;
+        $this->discount_id = $discount_id;
         $this->amount = $amount;
     }
 
@@ -50,6 +52,10 @@ class Jewelry extends Model
         return $this->price;
     }
 
+    public function getDiscountId()
+    {
+        return $this->discount_id;
+    }
 
     public function getDescription()
     {
@@ -60,6 +66,7 @@ class Jewelry extends Model
     {
         return $this->image;
     }
+
     public function getAmount()
     {
         return $this->amount;

@@ -25,4 +25,23 @@ class JewelryMapper
             $firstElement['amount']
         );
     }
+    public function mapJewelry(array $dbData): array
+    {
+
+        $jewelries = [];
+        foreach ($dbData as $firstElement) {
+            $jewelries[] = new Jewelry(
+                $firstElement['id'],
+                $firstElement["title"],
+                $firstElement["type_id"],
+                $firstElement["material_id"],
+                $firstElement["price"],
+                $firstElement["description"],
+                $firstElement["image"],
+                $firstElement["discount_id"],
+                $firstElement['amount']
+            );
+        }
+        return $jewelries;
+    }
 }
