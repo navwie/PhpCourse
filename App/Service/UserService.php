@@ -4,7 +4,7 @@ namespace App\Service;
 
 use App\Entity\User;
 use App\Model\UserModel;
-use App\Repository\UserMapper;
+use App\Mapper\UserMapper;
 
 class UserService
 {

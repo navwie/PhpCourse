@@ -15,7 +15,7 @@ class Templeater
     public function renderUser($title, $view, $params = [])
     {
         ob_start();
-        require_once "../App/View/Templates/user/"  . $view . ".php";
+        require_once "../App/View/Templates/user/" . $view . ".php";
         $content = ob_get_clean();
         require_once '../App/View/Layouts/userLayout.php';
     }
@@ -23,7 +23,7 @@ class Templeater
     public function renderAdmin($title, $view, $params = [])
     {
         ob_start();
-        require_once "../App/View/Templates/admin/"  . $view . ".php";
+        require_once "../App/View/Templates/admin/" . $view . ".php";
         $content = ob_get_clean();
         require_once '../App/View/Layouts/adminLayout.php';
     }

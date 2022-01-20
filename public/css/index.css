@@ -9,17 +9,17 @@ html, body {
     background-attachment: fixed;
 }
 
-.nav-item a{
+.nav-item a {
     font-size: 21px;
 }
 
-.nav-item i{
-    font-size:25px;
-    color:white;
+.nav-item i {
+    font-size: 25px;
+    color: white;
 }
-ul .items{
+
+ul .items {
     display: flex;
-    justify-content: space-between;
 }
 
 section h1 {
@@ -59,117 +59,127 @@ img {
     width: 150px;
     height: 150px;
     margin-left: 90px;
-    border-radius:20px;
+    border-radius: 20px;
     margin-bottom: 20px;
 }
-.page{
+
+.page {
     width: 100%;
     height: 90vh;
 }
-.page-sign-in{
+
+.page-sign-in {
 
     margin: 60px auto;
     max-width: 600px;
     padding: 40px 20px;
-    background:#f5ece6;
+    background: #f5ece6;
     border-radius: 15px;
     position: relative;
     text-shadow: none;
-    box-shadow: 0 3px 5px 0 rgba(0,0,0,0.31);
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.31);
 }
 
-.page-sign-up{
+.page-sign-up {
 
     margin: 40px auto;
     max-width: 700px;
     padding: 40px 20px;
-    background:#f5ece6;
+    background: #f5ece6;
     border-radius: 40px;
     position: relative;
     text-shadow: none;
-    box-shadow: 0 3px 5px 0 rgba(0,0,0,0.31);
+    box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.31);
     margin-bottom: 90px;
 }
 
 
-.form-group{
+.form-group {
     display: flex;
     justify-content: space-between;
 }
-.form-group p{
-    color:#000000;
-    top:5px;
+
+.form-group p {
+    color: #000000;
+    top: 5px;
     position: relative;
     right: 30px;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
 }
-.form-group label{
-    color:#000000;
-    top:5px;
+
+.form-group label {
+    color: #000000;
+    top: 5px;
     position: relative;
     right: 30px;
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
 }
-.page h1{
+
+.page h1 {
     font-size: 30px;
     font-family: 'Montserrat', sans-serif;
 }
 
-.page-sign-in .form-group button{
+.page-sign-in .form-group button {
 
     margin-top: 45px;
-    margin-left:145px;
+    margin-left: 145px;
     width: 110px;
     height: 50px;
     font-size: 24px;
-    border-radius:3px;
+    border-radius: 3px;
     border: 2px solid black;
 }
-.page-sign-up .form-group button{
+
+.page-sign-up .form-group button {
 
     margin-top: 45px;
-    margin-left:125px;
+    margin-left: 125px;
     width: 280px;
     height: 50px;
     font-size: 24px;
-    border-radius:3px;
+    border-radius: 3px;
     border: 2px solid black;
 }
 
-.form-group button:hover{
+.form-group button:hover {
     background-color: #593316;
 }
 
-.page-sign-in .form-group a{
+.page-sign-in .form-group a {
     margin-top: 25px;
     font-size: 20px;
-    position:relative;
-    margin-left:75px;
-    color:#000;
+    position: relative;
+    margin-left: 75px;
+    color: #000;
 }
-.page-sign-up .form-group a{
+
+.page-sign-up .form-group a {
     margin-top: 25px;
     font-size: 20px;
-    position:relative;
-    margin-left:185px;
-    color:#000;
+    position: relative;
+    margin-left: 185px;
+    color: #000;
 }
+
 .form-group input {
     border: none;
-    background-color: rgba(255,255,255,0);
+    background-color: rgba(255, 255, 255, 0);
     border-bottom: solid black;
     size: 3px;
     width: 300px;
     font-size: 20px;
     font-weight: 300;
 }
-.form-group .form-check-label{
+
+.form-group .form-check-label {
     right: 150px;
 
 }
-.form-group .form-check-input{
+
+.form-group .form-check-input {
     width: 30px;
     margin-left: -30px;
     top: 8px;
@@ -178,90 +188,234 @@ img {
 }
 
 
-label{
-    color:grey;
+label {
+    color: grey;
 
 }
-.form-group{
+
+.form-group {
     margin-top: 30px;
 
 }
-h2{
-    margin:0 auto;
+
+h2 {
+    margin: 0 auto;
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 28px;
 }
 
 
-#submitButton{
+#submitButton {
     margin: 25px;
     width: 40%;
 }
-.form-check{
+
+.form-check {
     margin-top: 20px;
 }
-.form-check-label{
+
+.form-check-label {
     position: relative;
     left: 10px;
-    top : 3px;
+    top: 3px;
     color: grey;
 }
 
-.form-check-input:checked + .form-check-label{
+.form-check-input:checked + .form-check-label {
     color: red;
 }
 
-.btn{
+.btn {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 17px;
     font-weight: 500;
 }
 
-.buy{
+.buy {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 17px;
     position: absolute;
-    bottom: 120px;
     font-weight: 500;
 }
 
-.form-check-label{
+.form-check-label {
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 15px;
     font-weight: 300;
 }
 
-#buttonAge{
+#buttonAge {
     background-color: transparent;
     border: none;
     color: grey;
     margin-right: 5px;
 }
-.input-group span{
+
+.input-group span {
     position: relative;
     left: 5px;
     bottom: 0;
 }
 
-.custom-control{
+.custom-control {
     position: relative;
     display: block;
     padding-left: 10px;
 }
 
-#input-file-id{
+#input-file-id {
     border: none;
 }
-.form-group .el{
+
+.form-group .el {
 
 }
-textarea{
+
+textarea {
     width: 90%;
 }
-.form-button button{
-    margin-left:0;
+
+.form-button button {
+    margin-left: 0;
 }
-.form-button{
-    display:flex;
+
+.form-button {
+    display: flex;
     justify-content: space-around;
+}
+
+.jewelry-info .title {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.jewelry-info img {
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+}
+
+.jewelry-info p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.jewelry-elements {
+    display: flex;
+}
+
+.one-el p {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+}
+
+.one-el p strong {
+    font-style: italic;
+}
+
+.sort-form {
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.sort-form button {
+    border: none;
+    margin-left: 100px;
+    background-color: #fff;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 25px;
+}
+
+.sort-form button:hover {
+    border-bottom: 5px solid #000;
+}
+
+.filter {
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.filter button {
+    margin-top: 30px;
+}
+
+.input-filter {
+    margin-left: 350px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+}
+
+.input-filter input {
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+.filter-button {
+    width: 150px;
+    margin-left: 450px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.clear-button {
+    width: 150px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    position: relative;
+    margin-top: 55px;
+}
+
+.basket-item {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+    padding-top: 30px;
+    margin-bottom:50px;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    background-color: #f5ece6;
+    border-radius: 20px;
+    padding-right: 80px;
+    border: 2px solid #f1c771;
+}
+
+.basket h2 {
+    margin-bottom: 50px;
+    margin-top: 30px;
+    margin-left: 650px;
+}
+
+.basket-item img {
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 20px;
+    height: 200px;
+}
+
+.basket-element {
+    margin-left: 20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 20px;
+}
+
+.basket-buy-elements button {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 10px;
+    width: 150px;
+    margin-bottom:20px;
+    margin-top:30px;
+    height: 50px;
+}
+
+.change-amount input {
+    color: black;
+    width: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 22px;
 }

@@ -44,7 +44,7 @@ class Router
             if (class_exists($str)) {
                 $object = new $str($url);
                 $object->$act();
-            }else{
+            } else {
                 throw new NoController();
             }
         }

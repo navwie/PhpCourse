@@ -3,7 +3,7 @@ require_once('../App/View/Common/Header/header-user.php')
 ?>
 <main>
     <div>
-        <?php echo $content;?>
+        <?php echo $content; ?>
     </div>
 </main>
 <?php

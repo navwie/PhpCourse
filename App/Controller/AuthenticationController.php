@@ -21,7 +21,7 @@ class AuthenticationController extends BaseController
     public function loginService()
     {
 
-        match($this->authentication->authentication($_POST["email"], $_POST["password"])) {
+        match ($this->authentication->authentication($_POST["email"], $_POST["password"])) {
 
             'admin' => header('location: /admin'),
             'user' => header('location: /profile'),

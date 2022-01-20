@@ -2,10 +2,10 @@
 
 namespace Framework\Exception;
 
-class NotUser  extends  \Exception
+class NotUser extends \Exception
 {
     public function __construct()
-{
-    parent::__construct("Нет такого пользователя ", 0, null);
-}
+    {
+        parent::__construct("Нет такого пользователя ", 0, null);
+    }
 }

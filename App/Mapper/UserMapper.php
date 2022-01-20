@@ -1,9 +1,8 @@
 <?php
 
-namespace App\Repository;
+namespace App\Mapper;
 
 use App\Entity\User;
-use JetBrains\PhpStorm\Pure;
 
 class UserMapper
 {

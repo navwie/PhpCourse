@@ -84,7 +84,7 @@ class Session
 
     public function getId()
     {
-        if($this->isSessionExist()) {
+        if ($this->isSessionExist()) {
             return session_id();
         }
         return null;

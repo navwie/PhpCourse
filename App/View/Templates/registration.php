@@ -28,12 +28,12 @@
                     <p>Администратор?</p>
                     <div class="radioChoice3">
                         <div class="custom-control custom-radio">
-                            <input type="radio" class="custom-control-input" value="1" id="role"   name="role">
+                            <input type="radio" class="custom-control-input" value="1" id="role" name="role">
                             <label class="custom-control-label" for="role"> Да </label>
                         </div>
 
                         <div class="custom-control custom-radio">
-                            <input type="radio" class="custom-control-input"  value="0" id="role"  name="role">
+                            <input type="radio" class="custom-control-input" value="0" id="role" name="role">
                             <label class="custom-control-label" for="role">Нет</label>
                         </div>
                     </div>
