@@ -1,0 +1,35 @@
+<div class="basket">
+    <h2>Корзина</h2>
+    <?php
+    foreach ($params['products'] as $product) {
+        //var_dump($product[0]->getTitle());
+        ?>
+        <div class="basket-item">
+            <div class="basket-image">
+                <img src="<?php echo 'images/' . $product[0]->getImage(); ?>" alt="">
+            </div>
+            <div class="basket-element">
+                <p><strong><?php echo $product[0]->getTitle(); ?></strong></p>
+                <p><strong>Описание:</strong> <?php echo $product[0]->getDescription(); ?></p>
+                <p><strong>Цена:</strong> <?php echo $product[0]->getPrice(); ?></p>
+                <div class="change-amount">
+                    <label for="amount" style="color: black"><strong>Изменить количество</strong></label>
+                    <input name="amount" id="amount" type="number" step="1" min="1" max="<?php echo $product[0]->getAmount() ?>"
+                           value="<?php echo $product['amount'] ?>">
+                </div>
+            </div>
+            <div class="basket-buy-elements">
+                <button class="btn btn-primary">
+                    купить
+                </button>
+                <form action="/deleteProductToBasket">
+                    <button class="btn btn-danger" name="id" type="submit" value="<?php echo $product[0]->getId(); ?>">
+                        удалить
+                    </button>
+                </form>
+            </div>
+        </div>
+        <?php
+    }
+    ?>
+</div>

@@ -13,6 +13,7 @@ class JewelryModel extends Model
         $title,
         $type_id,
         $material_id,
+        $sex_id,
         $price,
         $description,
         $image,
@@ -23,9 +24,9 @@ class JewelryModel extends Model
             $result = $this->dbConnect->prepare("
                 INSERT 
                 INTO `jewelry`
-                (title, type_id, material_id, price, description, image, amount)
+                (title, type_id, material_id, price, description, image, amount, sex_id)
                 VALUES 
-                (:title, :type_id, :material_id, :price, :description, :image,:amount) 
+                (:title, :type_id, :material_id, :price, :description, :image,:amount, :sex_id) 
             ");
             $result->execute([
                 ":title" => $title,
@@ -35,10 +36,11 @@ class JewelryModel extends Model
                 ":description" => $description,
                 ':image' => $image,
                 ":amount" => $amount,
+                ":sex_id" => $sex_id,
+
             ]);
         } catch (PDOException $e) {
-            var_dump($e->getMessage());
-            die();
+            var_dump($e);
             throw new $e();
         }
     }
@@ -63,9 +65,11 @@ class JewelryModel extends Model
             $result = $this->dbConnect->prepare($query);
             $result->execute();
             $jewelry = $result->fetchAll();
-
         } catch (PDOException $e) {
             throw new $e();
+        }
+        if (empty($jewelry)) {
+            throw new NotJewelry();
         }
         return $jewelry;
     }
@@ -102,7 +106,6 @@ class JewelryModel extends Model
                 ":amount" => $amount,
             ]);
         } catch (PDOException $e) {
-            var_dump($e->getMessage());
             throw new $e();
         }
     }
@@ -139,4 +142,90 @@ class JewelryModel extends Model
         return $result->fetchAll();
 
     }
+
+    public function getTypeNameByTypeId(int $id): string
+    {
+        try {
+            $query = '
+                SELECT type
+                FROM `type`
+                WHERE id = :id';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute([':id' => $id]);
+            $typeName = $result->fetch()['type'];
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+        return $typeName;
+    }
+
+    public function getMaterialNameByMaterialId(int $id): string
+    {
+        try {
+            $query = '
+                SELECT name
+                FROM `material`
+                WHERE id = :id';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute([':id' => $id]);
+            $materialName = $result->fetch()['name'];
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+        return $materialName;
+    }
+
+    public function getSexNameByTypeId(int $id): string
+    {
+        try {
+            $query = '
+                SELECT sex
+                FROM `sex`
+                WHERE id = :id';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute([':id' => $id]);
+            $typeName = $result->fetch()['sex'];
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+        return $typeName;
+    }
+
+    public function getJewelryByType($id): array
+    {
+        try {
+            $query = '
+                SELECT *
+                FROM `jewelry`
+                WHERE type_id = :id';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute([':id' => $id]);
+            $jewelries = $result->fetchAll();
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+        return $jewelries;
+    }
+
+    public function getJewelryBySex($id): array
+    {
+        try {
+            $query = '
+                SELECT *
+                FROM `jewelry`
+                WHERE sex_id = :idSex';
+
+            $result = $this->dbConnect->prepare($query);
+            $result->execute([':idSex' => $id]);
+            $jewelries = $result->fetchAll();
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+        return $jewelries;
+    }
+
 }

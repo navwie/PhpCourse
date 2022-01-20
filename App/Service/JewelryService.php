@@ -5,7 +5,7 @@ namespace App\Service;
 
 use App\Entity\Jewelry;
 use App\Model\JewelryModel;
-use App\Repository\JewelryMapper;
+use App\Mapper\JewelryMapper;
 
 
 class JewelryService
@@ -22,6 +22,7 @@ class JewelryService
     public function getByField(array $params): array
     {
         return $this->jewelryMapper->mapJewelry($this->jewelryModel->getByField($params));
+
     }
 
     public function createJewelry()
@@ -38,6 +39,7 @@ class JewelryService
                 $_POST['title'],
                 $_POST['type_id'],
                 $_POST['material_id'],
+                $_POST['sex_id'],
                 $_POST['price'],
                 $_POST['description'],
                 $target_file,
@@ -77,8 +79,15 @@ class JewelryService
     public function all(): array
     {
         return $this->jewelryModel->all();
-
     }
 
+    public function getJewelryByType($typeId): array
+    {
+        return $this->jewelryModel->getJewelryByType($typeId);
+    }
 
+    public function getJewelryBySex($typeId): array
+    {
+        return $this->jewelryModel->getJewelryBySex($typeId);
+    }
 }

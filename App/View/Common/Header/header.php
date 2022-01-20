@@ -37,6 +37,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/register">Регистрация</a>
                     </li>
+
                     <li class="nav-item">
                         <?php
                         if (isset($_SESSION['username'])) {
@@ -47,7 +48,8 @@
                 </ul>
                 <form class="col-md-3 d-flex flex-md-row" method="post" action="/search">
                     <div>
-                        <input class="form-control pr-4" type="text" name="search" placeholder="Search" aria-label="Search">
+                        <input class="form-control pr-4" type="text" name="search" placeholder="Search"
+                               aria-label="Search">
                     </div>
                     <div>
                         <button class="btn btn-outline-light" style="margin-left: 50px" name="searchUrl" type="submit">

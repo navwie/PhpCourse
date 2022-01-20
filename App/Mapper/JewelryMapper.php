@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Repository;
+namespace App\Mapper;
 
 use App\Entity\Jewelry;
-use JetBrains\PhpStorm\Pure;
+use App\Model\JewelryModel;
 
 class JewelryMapper
 {
@@ -13,33 +13,40 @@ class JewelryMapper
             return null;
         }
         $firstElement = array_shift($dbData);
-        return new Jewelry(
+        $jewelryModel = new JewelryModel();
+
+        $jewelry = new Jewelry(
             $firstElement['id'],
             $firstElement["title"],
-            $firstElement["type_id"],
-            $firstElement["material_id"],
+            $jewelryModel->getTypeNameByTypeId($firstElement["type_id"]),
+            $jewelryModel->getMaterialNameByMaterialId($firstElement["material_id"]),
             $firstElement["price"],
             $firstElement["description"],
             $firstElement["image"],
             $firstElement["discount_id"],
-            $firstElement['amount']
+            $firstElement['amount'],
+            $jewelryModel->getSexNameByTypeId($firstElement["sex_id"]),
         );
+
+        return $jewelry;
     }
+
     public function mapJewelry(array $dbData): array
     {
-
+        $jewelryModel = new JewelryModel();
         $jewelries = [];
         foreach ($dbData as $firstElement) {
             $jewelries[] = new Jewelry(
                 $firstElement['id'],
                 $firstElement["title"],
-                $firstElement["type_id"],
-                $firstElement["material_id"],
+                $jewelryModel->getTypeNameByTypeId($firstElement["type_id"]),
+                $jewelryModel->getMaterialNameByMaterialId($firstElement["material_id"]),
                 $firstElement["price"],
                 $firstElement["description"],
                 $firstElement["image"],
                 $firstElement["discount_id"],
-                $firstElement['amount']
+                $firstElement['amount'],
+                $jewelryModel->getSexNameByTypeId($firstElement["sex_id"]),
             );
         }
         return $jewelries;

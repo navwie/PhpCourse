@@ -34,7 +34,7 @@ class Authentication
                 return 'user';
             }
             throw new NotUser();
-        }catch (NotUser $e){
+        } catch (NotUser $e) {
             $this->validator->setLoginError();
             return null;
         }

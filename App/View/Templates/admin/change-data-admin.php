@@ -9,7 +9,8 @@
                 </div>
                 <div class="form-group mt-4">
                     <label for="surname">Фамилия</label>
-                    <input type="text" id="surname" name="surname" value="<?php echo $params['user'][0]->getSurname(); ?>">
+                    <input type="text" id="surname" name="surname"
+                           value="<?php echo $params['user'][0]->getSurname(); ?>">
                 </div>
                 <div class="form-group mt-4">
                     <label for="email">E-mail</label>
@@ -17,14 +18,17 @@
                 </div>
                 <div class="form-group mt-4">
                     <label for="password">Пароль</label>
-                    <input type="password" id="password" name="password" value="<?php echo $params['user'][0]->getPassword(); ?>">
+                    <input type="password" id="password" name="password"
+                           value="<?php echo $params['user'][0]->getPassword(); ?>">
                 </div>
                 <div class="form-group mt-4">
                     <label for="phone">Номер телефона</label>
                     <input type="text" id="phone" name="phone" value="<?php echo $params['user'][0]->getPhone(); ?>">
                 </div>
                 <div class="form-group text-center">
-                    <button type="submit" class="btn btn-outline-dark" value="<?php echo $params['user'][0]->getId() ?>" name="id">Изменить</button>
+                    <button type="submit" class="btn btn-outline-dark" value="<?php echo $params['user'][0]->getId() ?>"
+                            name="id">Изменить
+                    </button>
                 </div>
             </form>
         </div>

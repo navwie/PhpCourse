@@ -78,11 +78,47 @@ return [
         "action" => "updateJewelry"
     ],
     '^adminCatalog$' => [
-        'controller' => 'jewelry',
+        'controller' => 'admin',
         "action" => "adminCatalog"
+    ],
+    '^userCatalog$' => [
+        'controller' => 'user',
+        "action" => "userCatalog"
     ],
     '^search$' => [
         'controller' => 'jewelry',
         "action" => "search"
+    ],
+    '^searchAdminPage$' => [
+        'controller' => 'admin',
+        "action" => "search"
+    ],
+    '^searchUserPage$' => [
+        'controller' => 'user',
+        "action" => "search"
+    ],
+    '^sort$' => [
+        'controller' => 'jewelry',
+        "action" => "sort"
+    ],
+    '^sortAdminPage$' => [
+        'controller' => 'admin',
+        "action" => "sort"
+    ],
+    '^sortUserPage$' => [
+        'controller' => 'user',
+        "action" => "sort"
+    ],
+    '^basket$' => [
+        'controller' => 'basket',
+        "action" => "basket"
+    ],
+    '^addProductToBasket$' => [
+        'controller' => 'basket',
+        "action" => "addProductToBasket"
+    ],
+    '^deleteProductToBasket$' => [
+        'controller' => 'basket',
+        "action" => "deleteProductToBasket"
     ],
 ];

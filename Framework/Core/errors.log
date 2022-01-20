@@ -3848,3 +3848,519 @@ Stack trace:
 [2022-01-18 13:31:03] Текст ошибки: preg_match(): Unknown modifier '/' | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Validator/Validator.php
         | Строка: 41 
  ======================================
+[2022-01-18 13:51:19] Текст ошибки: Call to undefined method App\Controller\JewelryController::search() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-18 15:09:52] Текст ошибки: require_once(../App/View/Templates/product.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:09:52] Текст ошибки: Failed opening required '../App/View/Templates/product.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:12:09] Текст ошибки: require_once(../App/View/Templates/product.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:12:09] Текст ошибки: Failed opening required '../App/View/Templates/product.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:30:14] Текст ошибки: Unmatched '}' | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php 
+        | Строка: 21 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Undefined variable $product | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 10 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Undefined variable $product | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 11 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 11 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Undefined variable $product | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 13 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 13 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Undefined variable $product | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 15 
+ ======================================
+[2022-01-18 15:30:46] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 15 
+ ======================================
+[2022-01-18 15:36:56] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 14 
+ ======================================
+[2022-01-18 15:36:56] Текст ошибки: Call to a member function getImage() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php 
+        | Строка: 14 
+ ======================================
+[2022-01-18 15:37:20] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 14 
+ ======================================
+[2022-01-18 15:37:45] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 14 
+ ======================================
+[2022-01-18 15:38:02] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php
+        | Строка: 14 
+ ======================================
+[2022-01-18 15:38:02] Текст ошибки: Call to a member function getImage() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php 
+        | Строка: 14 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Undefined array key "type_id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php
+        | Строка: 74 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 35 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 36 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 37 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 38 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 39 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 40 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 41 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 42 
+ ======================================
+[2022-01-18 16:00:11] Текст ошибки: Trying to access array offset on value of type bool | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Repository/JewelryMapper.php
+        | Строка: 43 
+ ======================================
+[2022-01-18 21:39:53] Текст ошибки: Class "App\Repository\UserMapper" not found | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php 
+        | Строка: 16 
+ ======================================
+[2022-01-18 21:42:02] Текст ошибки: Class "App\Repository\JewelryMapper" not found | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 19 
+ ======================================
+[2022-01-18 21:42:33] Текст ошибки: Call to undefined method App\Entity\Jewelry::getTypeId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/jewelry.php 
+        | Строка: 17 
+ ======================================
+[2022-01-18 21:47:58] Текст ошибки: App\Model\JewelryModel::getTypeNameByTypeId(): Return value must be of type string, array returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 156 
+ ======================================
+[2022-01-18 21:49:29] Текст ошибки: App\Model\JewelryModel::getTypeNameByTypeId(): Return value must be of type string, array returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 157 
+ ======================================
+[2022-01-18 21:49:59] Текст ошибки: App\Model\JewelryModel::getMaterialNameByMaterialId(): Return value must be of type string, array returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 174 
+ ======================================
+[2022-01-18 21:50:29] Текст ошибки: Undefined array key "material" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php
+        | Строка: 170 
+ ======================================
+[2022-01-18 21:50:29] Текст ошибки: App\Model\JewelryModel::getMaterialNameByMaterialId(): Return value must be of type string, null returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 174 
+ ======================================
+[2022-01-18 21:51:06] Текст ошибки: App\Model\JewelryModel::getMaterialNameByMaterialId(): Return value must be of type string, array returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 174 
+ ======================================
+[2022-01-18 21:58:12] Текст ошибки: Undefined array key "type" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 32 
+ ======================================
+[2022-01-18 21:58:12] Текст ошибки: Call to a member function getType() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 32 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "type" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 32 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "material" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 33 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "type" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 32 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "material" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 33 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "type" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 32 
+ ======================================
+[2022-01-18 21:58:55] Текст ошибки: Undefined array key "material" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php
+        | Строка: 33 
+ ======================================
+[2022-01-18 22:38:48] Текст ошибки: Undefined array key "sort" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/MainController.php
+        | Строка: 27 
+ ======================================
+[2022-01-18 22:38:48] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 68 
+ ======================================
+[2022-01-18 22:47:09] Текст ошибки: syntax error, unexpected token "}", expecting identifier or variable or "{" or "$" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 70 
+ ======================================
+[2022-01-18 22:51:32] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-18 22:51:32] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 68 
+ ======================================
+[2022-01-18 22:52:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-18 22:52:50] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 68 
+ ======================================
+[2022-01-18 22:52:54] Текст ошибки: Cannot use object of type App\Entity\Jewelry as array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/catalog.php 
+        | Строка: 27 
+ ======================================
+[2022-01-18 23:01:56] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-18 23:04:51] Текст ошибки: require_once(../App/View/Templates/catalogUser.php): Failed to open stream: No such file or directory | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php
+        | Строка: 10 
+ ======================================
+[2022-01-18 23:04:51] Текст ошибки: Failed opening required '../App/View/Templates/catalogUser.php' (include_path='.:/usr/share/php') | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Templeater/Templeater.php 
+        | Строка: 10 
+ ======================================
+[2022-01-18 23:07:12] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 40 
+ ======================================
+[2022-01-18 23:08:16] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 41 
+ ======================================
+[2022-01-18 23:16:31] Текст ошибки: Call to undefined method App\Entity\Jewelry::getTypeId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 13 
+ ======================================
+[2022-01-18 23:16:35] Текст ошибки: Call to undefined method App\Entity\Jewelry::getTypeId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 13 
+ ======================================
+[2022-01-18 23:16:49] Текст ошибки: Call to undefined method App\Entity\Jewelry::getTypeId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 13 
+ ======================================
+[2022-01-18 23:19:20] Текст ошибки: Call to undefined method App\Entity\Jewelry::getTypeId() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/admin/change-data-jewelry.php 
+        | Строка: 13 
+ ======================================
+[2022-01-18 23:50:25] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 44 
+ ======================================
+[2022-01-19 00:16:33] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:19:37] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:19:55] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 70 
+ ======================================
+[2022-01-19 00:20:04] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:20:48] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:20:48] Текст ошибки: Call to undefined method App\Service\JewelryService::getJewelryBySex() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php 
+        | Строка: 75 
+ ======================================
+[2022-01-19 00:24:28] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:24:30] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:24:31] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:25:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 00:26:44] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 68 
+ ======================================
+[2022-01-19 00:26:46] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 68 
+ ======================================
+[2022-01-19 00:26:47] Текст ошибки: Undefined array key "idSex" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 71 
+ ======================================
+[2022-01-19 00:26:49] Текст ошибки: Undefined array key "idSex" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 71 
+ ======================================
+[2022-01-19 00:26:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 68 
+ ======================================
+[2022-01-19 00:26:52] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 68 
+ ======================================
+[2022-01-19 00:27:05] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 11:28:21] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 11:28:23] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 11:28:25] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-19 11:54:18] Текст ошибки:  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 44 
+ ======================================
+[2022-01-19 11:56:28] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/JewelryController.php
+        | Строка: 69 
+ ======================================
+[2022-01-20 22:15:56] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-20 22:15:56] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-20 22:15:58] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-20 22:15:58] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-20 22:49:02] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:49:02] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 72 
+ ======================================
+[2022-01-20 22:49:22] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:49:22] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 72 
+ ======================================
+[2022-01-20 22:49:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:49:50] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 39 
+ ======================================
+[2022-01-20 22:49:50] Текст ошибки: Украшение не найдено  | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/JewelryModel.php 
+        | Строка: 72 
+ ======================================
+[2022-01-20 22:50:00] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:50:46] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:50:51] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:52:30] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:53:34] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:54:07] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 22:54:31] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 23:00:17] Текст ошибки: Cannot use [] for reading | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 38 
+ ======================================
+[2022-01-20 23:00:38] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:00:38] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:03:44] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 8 
+ ======================================
+[2022-01-20 23:03:44] Текст ошибки: Undefined array key "title" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 11 
+ ======================================
+[2022-01-20 23:03:44] Текст ошибки: Undefined array key "description" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 12 
+ ======================================
+[2022-01-20 23:03:44] Текст ошибки: Undefined array key "price" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 15 
+ ======================================
+[2022-01-20 23:04:10] Текст ошибки: Undefined array key "image" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 9 
+ ======================================
+[2022-01-20 23:04:10] Текст ошибки: Undefined array key "title" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 12 
+ ======================================
+[2022-01-20 23:04:10] Текст ошибки: Undefined array key "description" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 13 
+ ======================================
+[2022-01-20 23:04:10] Текст ошибки: Undefined array key "price" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 16 
+ ======================================
+[2022-01-20 23:05:16] Текст ошибки: Call to a member function getImage() on array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 9 
+ ======================================
+[2022-01-20 23:05:38] Текст ошибки: Call to a member function getImage() on array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 9 
+ ======================================
+[2022-01-20 23:06:36] Текст ошибки: Call to a member function getTitle() on array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 5 
+ ======================================
+[2022-01-20 23:07:04] Текст ошибки: Call to a member function getTitle() on array | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 12 
+ ======================================
+[2022-01-20 23:08:07] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:10:59] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:12] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:12] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:20] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:20] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:25] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:32] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:32] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:32] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:11:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:12:00] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:12:00] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:12:05] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:16:17] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 23 
+ ======================================
+[2022-01-20 23:16:17] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 23 
+ ======================================
+[2022-01-20 23:16:17] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 23 
+ ======================================
+[2022-01-20 23:16:17] Текст ошибки: Undefined array key "id" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 23 
+ ======================================
+[2022-01-20 23:22:39] Текст ошибки: Undefined array key 50 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 21 
+ ======================================
+[2022-01-20 23:22:39] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 21 
+ ======================================
+[2022-01-20 23:23:27] Текст ошибки: Undefined array key 50 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:23:27] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:24:13] Текст ошибки: Undefined array key 1 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:24:13] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:24:17] Текст ошибки: Undefined array key 1 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:24:17] Текст ошибки: Trying to access array offset on value of type null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 22 
+ ======================================
+[2022-01-20 23:55:32] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-20 23:55:36] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:09:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:09:41] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:09:41] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:09:41] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:09:41] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:09:46] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:09:59] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:10:02] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:10:02] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:10:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:10:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:10:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:10:52] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:11:02] Текст ошибки: Call to undefined method App\Controller\UserController::userCatalog() | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php 
+        | Строка: 46 
+ ======================================
+[2022-01-21 00:13:52] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:13:57] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:13:57] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:13:57] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:14:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:14:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:14:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:14:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================

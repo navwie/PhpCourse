@@ -10,16 +10,17 @@ class UserModel extends Model
 {
     public function getAllUsers(): bool|array
     {
-        $query ='SELECT * FROM `user`';
+        $query = 'SELECT * FROM `user`';
         $result = $this->dbConnect->prepare($query);
 
         $result->execute();
         $users = $result->fetchAll();
         return $users;
     }
+
     public function getAuthUser($email, $password)
     {
-        $query ="SELECT * FROM `user` WHERE email = '$email' AND password = '$password' ";
+        $query = "SELECT * FROM `user` WHERE email = '$email' AND password = '$password' ";
         $result = $this->dbConnect->prepare($query);
 
         $result->execute();
@@ -38,9 +39,9 @@ class UserModel extends Model
             $i = 0;
             foreach ($params as $field => $value) {
                 if ($i === 0) {
-                    $query .= $field .  " = " . "'$value'" . " ";
+                    $query .= $field . " = " . "'$value'" . " ";
                 } else {
-                    $query .= " AND " . $field .  " = " . "'$value'";
+                    $query .= " AND " . $field . " = " . "'$value'";
                 }
                 $i++;
             }
@@ -60,7 +61,8 @@ class UserModel extends Model
         $email,
         $password,
         $phone,
-    ): void {
+    ): void
+    {
         try {
             $result = $this->dbConnect->prepare("
                 UPDATE `user`
@@ -96,7 +98,8 @@ class UserModel extends Model
         string $phone,
         string $password,
         string $role
-    ): void {
+    ): void
+    {
         try {
             $query = $this->dbConnect->prepare('
                 INSERT 

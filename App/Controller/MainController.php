@@ -18,8 +18,6 @@ class MainController extends BaseController
     public function main()
     {
         $allJewelry = $this->jewelryService->all();
-
         $this->templeater->render('Main', 'catalog', ['products' => $allJewelry]);
     }
-
 }

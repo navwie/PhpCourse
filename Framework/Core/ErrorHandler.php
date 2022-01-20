@@ -93,6 +93,7 @@ class ErrorHandler extends Exception
             ob_end_flush();
         }
     }
+
     /**
      * @param $errno
      * @param $errstr

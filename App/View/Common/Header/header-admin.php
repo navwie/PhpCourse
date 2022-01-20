@@ -49,9 +49,16 @@
                         ?>
                     </li>
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-success" type="submit">Search</button>
+                <form class="col-md-3 d-flex flex-md-row" method="post" action="/searchAdminPage">
+                    <div>
+                        <input class="form-control pr-4" type="text" name="search" placeholder="Search"
+                               aria-label="Search">
+                    </div>
+                    <div>
+                        <button class="btn btn-outline-light" style="margin-left: 50px" name="searchUrl" type="submit">
+                            Найти
+                        </button>
+                    </div>
                 </form>
             </div>
         </div>

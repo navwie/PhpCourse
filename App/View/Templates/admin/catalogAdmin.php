@@ -6,6 +6,16 @@ use Framework\core\Session;
 <div class="page">
     <div class=" wrapper container-fluid">
         <div class="row">
+            <div class="sort-filter" style="d-flex">
+                <div class="sort-form">
+                    <form action="/sortAdminPage" method="GET">
+                        <button class="sort-button" name="id" value="2">Кольца</button>
+                        <button class="sort-button" name="id" value="3">Браслеты</button>
+                        <button class="sort-button" name="id" value="1">Серьги</button>
+                    </form>
+                </div>
+                <hr>
+            </div>
             <section>
                 <h1 class=" text-center">Список товаров</h1>
                 <?php
@@ -23,12 +33,14 @@ use Framework\core\Session;
                                     <strong>Цена:</strong> <?php echo $product['price']; ?></p>
                                 <div class="form-button">
                                     <form action="/changeJewelry" method="GET">
-                                        <button class="btn btn-primary" type="submit" name="id" value="<?php echo $product['id'] ?>">
+                                        <button class="btn btn-primary" type="submit" name="id"
+                                                value="<?php echo $product['id'] ?>">
                                             Обновить
                                         </button>
                                     </form>
                                     <form action="/deleteJewelry" method="POST">
-                                        <button href="/adminCatalog" class="btn btn-primary" type="submit" name="id" value="<?php echo $product['id'] ?>">
+                                        <button href="/adminCatalog" class="btn btn-primary" type="submit" name="id"
+                                                value="<?php echo $product['id'] ?>">
                                             Удалить
                                         </button>
                                     </form>

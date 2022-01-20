@@ -6,25 +6,28 @@ class Jewelry
 {
     private $id;
     private $title;
-    private $type_id;
-    private $material_id;
+    private $type;
+    private $material;
     private $price;
     private $description;
     private $image;
     private $discount_id;
     private $amount;
+    private $sex;
 
-    public function __construct($id, $title, $type_id, $material_id, $price, $description, $image, $discount_id, $amount)
+    public function __construct($id, $title, $type, $material, $price, $description, $image, $discount_id, $amount, $sex)
     {
         $this->id = $id;
         $this->title = $title;
-        $this->type_id = $type_id;
-        $this->material_id = $material_id;
+        $this->type = $type;
+        $this->material = $material;
         $this->price = $price;
         $this->description = $description;
         $this->image = $image;
         $this->discount_id = $discount_id;
         $this->amount = $amount;
+        $this->sex = $sex;
+
     }
 
     public function getId()
@@ -37,14 +40,14 @@ class Jewelry
         return $this->title;
     }
 
-    public function getTypeId()
+    public function getType()
     {
-        return $this->type_id;
+        return $this->type;
     }
 
-    public function getMaterial_id()
+    public function getMaterial()
     {
-        return $this->material_id;
+        return $this->material;
     }
 
     public function getPrice()
@@ -70,5 +73,10 @@ class Jewelry
     public function getAmount()
     {
         return $this->amount;
+    }
+
+    public function getSex()
+    {
+        return $this->sex;
     }
 }

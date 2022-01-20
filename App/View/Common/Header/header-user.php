@@ -22,12 +22,6 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Navbar</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <div class="items">
@@ -40,15 +34,30 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/logOut">Выйти</a>
                         </li>
+
                     </div>
                     <div class="items">
+                        <form class="col-md-3 d-flex flex-md-row" method="post" action="/searchUserPage">
+                            <div>
+                                <input class="form-control pr-4" style="width:200px; margin-top:5px" type="text"
+                                       name="search" placeholder="Search"
+                                       aria-label="Search">
+                            </div>
+                            <div>
+                                <button class="btn btn-outline-light" style="margin-left: 20px; margin-top: 5px"
+                                        name="searchUrl" type="submit">
+                                    Найти
+                                </button>
+                            </div>
+                        </form>
                         <li class="nav-item">
-                            <i style="margin-left:800px; margin-top:15px" class="fas fa-shopping-basket">
-                                <a class="nav-link" href="/basket"></a>
-                            </i>
+                            <a class="nav-link" href="/basket"> <i style=" margin-left: 550px"
+                                                                   class="fas fa-shopping-basket">
+                                    <?php echo count($_SESSION['products']); ?>
+                                </i></a>
+
                         </li>
                     </div>
-
                 </ul>
 
             </div>
