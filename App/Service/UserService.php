@@ -58,4 +58,9 @@ class UserService
         );
 
     }
+
+    public function setNewProduct($userId, $productId, $amount): void
+    {
+        $this->userModel->setNewProduct($userId, $productId, $amount);
+    }
 }

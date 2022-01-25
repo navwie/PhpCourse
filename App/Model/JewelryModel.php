@@ -228,4 +228,18 @@ class JewelryModel extends Model
         return $jewelries;
     }
 
+    public function buy($productId, $amount): void
+    {
+        try {
+            $result = $this->dbConnect->prepare("
+                UPDATE `jewelry`
+                SET amount = amount - :amount
+                WHERE id = :id 
+            ");
+            $result->execute([":amount" => $amount, ":id" => $productId]);
+        } catch (PDOException $e) {
+            throw new $e();
+        }
+    }
+
 }
