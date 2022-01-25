@@ -12,8 +12,6 @@ use Framework\core\Session;
                         <button class="sort-button" name="id" value="2">Кольца</button>
                         <button class="sort-button" name="id" value="3">Браслеты</button>
                         <button class="sort-button" name="id" value="1">Серьги</button>
-                        <button class="sort-button" name="idSex" value="1">Для мужчин</button>
-                        <button class="sort-button" name="idSex" value="2">Для женщин</button>
                     </form>
                 </div>
                 <hr>

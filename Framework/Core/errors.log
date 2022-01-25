@@ -4364,3 +4364,396 @@ Stack trace:
 [2022-01-21 00:14:01] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
         | Строка: 79 
  ======================================
+[2022-01-21 00:20:20] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:20:20] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-21 00:20:20] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-22 12:54:42] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:54:42] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:54:42] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:54:55] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:54:55] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:54:57] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-22 12:54:57] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-22 12:55:00] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:55:00] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:55:01] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:55:01] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:55:49] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:55:49] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:55:49] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:56:06] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:56:06] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:56:06] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:56:07] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:56:07] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:56:07] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:04] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:57:04] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:04] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:12] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:57:12] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:12] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:30] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:30] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:42] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:57:42] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:57:42] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:02] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:58:02] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:02] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:07] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:58:07] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:07] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:14] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:58:14] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:58:14] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:59:27] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 12:59:27] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php
+        | Строка: 56 
+ ======================================
+[2022-01-22 12:59:27] Текст ошибки: count(): Argument #1 ($value) must be of type Countable|array, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Common/Header/header-user.php 
+        | Строка: 56 
+ ======================================
+[2022-01-22 13:01:28] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 13:02:14] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 13:06:32] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 13:07:37] Текст ошибки: syntax error, unexpected token "as" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 4 
+ ======================================
+[2022-01-22 13:08:01] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php
+        | Строка: 4 
+ ======================================
+[2022-01-22 13:12:25] Текст ошибки: syntax error, unexpected end of file | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/basket.php 
+        | Строка: 42 
+ ======================================
+[2022-01-22 13:14:42] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 82 
+ ======================================
+[2022-01-22 13:14:42] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 82 
+ ======================================
+[2022-01-22 13:26:56] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:02] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:07] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:07] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:13] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:13] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:27:21] Текст ошибки: App\Service\JewelryService::buy(): Return value must be of type bool, null returned | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/JewelryService.php 
+        | Строка: 96 
+ ======================================
+[2022-01-22 13:28:10] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:28:10] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:28:10] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 13:56:06] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:56:06] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:57:40] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:57:40] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:57:47] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:57:47] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 13:58:50] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-22 13:58:50] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-22 13:59:34] Текст ошибки: Undefined array key "price" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 138 
+ ======================================
+[2022-01-22 13:59:34] Текст ошибки: Typed property App\Controller\BasketController::$validator must not be accessed before initialization | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:00:48] Текст ошибки: Undefined array key "price" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 139 
+ ======================================
+[2022-01-22 14:00:48] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:156
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:01:58] Текст ошибки: Undefined array key "price" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php
+        | Строка: 141 
+ ======================================
+[2022-01-22 14:01:58] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:158
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:02:38] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:157
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:04:17] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:160
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:04:21] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:160
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:04:44] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:161
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:05:11] Текст ошибки: PDOException in /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php:161
+Stack trace:
+#0 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Service/UserService.php(64): App\Model\UserModel->setNewProduct()
+#1 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php(68): App\Service\UserService->setNewProduct()
+#2 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/Framework/Router/Router.php(46): App\Controller\BasketController->buy()
+#3 /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/public/index.php(20): Framework\Router\Router->matchRoute()
+#4 {main} | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 72 
+ ======================================
+[2022-01-22 14:09:18] Текст ошибки: Non-static method PDO::lastInsertId() cannot be called statically | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Model/UserModel.php 
+        | Строка: 143 
+ ======================================
+[2022-01-22 14:12:43] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 14:12:43] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 14:17:15] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:21:41] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-22 15:21:41] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-22 15:21:45] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:45] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:52] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:52] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:52] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:21:58] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:22:02] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:22:02] Текст ошибки: Call to a member function getId() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php 
+        | Строка: 68 
+ ======================================
+[2022-01-22 15:23:05] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:23:09] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:23:09] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:23:11] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:27:46] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:27:49] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:27:59] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 15:27:59] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-22 20:51:27] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-22 20:51:27] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-22 20:51:53] Текст ошибки: Undefined array key "products" | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-22 20:51:53] Текст ошибки: foreach() argument must be of type array|object, null given | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 79 
+ ======================================
+[2022-01-22 20:51:56] Текст ошибки: Object of class App\Entity\Jewelry could not be converted to int | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/Controller/BasketController.php
+        | Строка: 80 
+ ======================================
+[2022-01-24 11:31:41] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-24 11:31:41] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-24 11:31:42] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-24 11:31:42] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================
+[2022-01-24 11:31:45] Текст ошибки: Undefined array key 0 | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php
+        | Строка: 8 
+ ======================================
+[2022-01-24 11:31:45] Текст ошибки: Call to a member function getName() on null | Файл: /home/alesia/PhpstormProjects/last-version-nix-project/PhpCourse/App/View/Templates/user/change-data-user.php 
+        | Строка: 8 
+ ======================================

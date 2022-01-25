@@ -90,4 +90,9 @@ class JewelryService
     {
         return $this->jewelryModel->getJewelryBySex($typeId);
     }
+
+    public function buy($productId, $amount): void
+    {
+        $this->jewelryModel->buy($productId, $amount);
+    }
 }

@@ -4,6 +4,7 @@ namespace App\Controller;
 
 use App\Service\JewelryService;
 use App\Service\UserService;
+use Exception;
 use Framework\Core\BaseController\BaseController;
 use Framework\Session\Session;
 use Framework\Validator\Validator;
@@ -49,7 +50,7 @@ class BasketController extends BaseController
 
     public function deleteProductToBasket(): void
     {
-        $currentProduct = $this->jewelryService->getByField(["id" => $_GET['id']]);
+        $currentProduct = $this->jewelryService->getByField(["id" => $_POST['id']]);
 
         $key = $this->isProductInBasket($currentProduct);
         unset($_SESSION['products'][$key]);
@@ -57,21 +58,21 @@ class BasketController extends BaseController
         header("location: /basket");
     }
 
-    /*public function buy(): void
+    public function buy(): void
     {
         try {
             $currentProduct = $this->jewelryService->getByField(["id" => $_POST['id']]);
-            $this->jewelryService->buyBook($currentProduct[0]->getId(), $_POST["amount"]);
+            $this->jewelryService->buy($currentProduct[0]->getId(), $_POST["amount"]);
 
-            $userId = $this->userService->getByField(["login" => $this->authentication->getLogin()]);
-            $this->userService->setNewBook($userId[0]->getId(), $currentBook[0]->getId(), $_POST["amount"]);
+            $userId = $this->userService->getByField(["id" => $this->session->get('userId')]);
+            $this->userService->setNewProduct($userId[0]->getId(), $currentProduct[0]->getId(), $_POST["amount"]);
 
-            $this->deleteBook();
-        } catch (NotEnoughBookException $exception) {
-            $this->validator->setUniversalError($exception);
+            $this->deleteProductToBasket();
+        } catch (Exception $exception) {
+            throw new Exception($exception);
         }
 
-    }*/
+    }
 
     private function isProductInBasket($product): bool|int
     {

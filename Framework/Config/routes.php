@@ -121,4 +121,8 @@ return [
         'controller' => 'basket',
         "action" => "deleteProductToBasket"
     ],
+    '^buyProductToBasket$' => [
+        'controller' => 'basket',
+        "action" => "buy"
+    ],
 ];

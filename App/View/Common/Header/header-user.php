@@ -53,7 +53,7 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/basket"> <i style=" margin-left: 550px"
                                                                    class="fas fa-shopping-basket">
-                                    <?php echo count($_SESSION['products']); ?>
+                                    <?php echo isset($_SESSION['products']) ? count($_SESSION['products']) : 0; ?>
                                 </i></a>
 
                         </li>
